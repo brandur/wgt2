@@ -12,13 +12,15 @@ import (
 )
 
 const (
-	DBFilename = "./data.yaml"
-	TargetDir  = "./public/"
+	DBFilename      = "./data.yaml"
+	TargetAssetsDir = "./public/assets/"
+	TargetDir       = "./public/"
 )
 
 func main() {
-	// create an output directory (needed for both build and serve)
-	err := os.MkdirAll(TargetDir, 0755)
+	// create an output directory (the assets subdirectory here because its
+	// parent will be created as a matter of course)
+	err := os.MkdirAll(TargetAssetsDir, 0755)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
