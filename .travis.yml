@@ -3,6 +3,11 @@ go:
 
 install:
   - pip install --user awscli
+  - go get github.com/joeshaw/envdecode
+  - go get github.com/ogier/pflag
+  - go get github.com/zmb3/spotify
+  - go get golang.org/x/oauth2
+  - go get gopkg.in/yaml.v2
 
 language: go
 
