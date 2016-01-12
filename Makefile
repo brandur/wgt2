@@ -29,3 +29,6 @@ render: enrich
 
 scrape: install
 	wgt-scrape
+
+serve: install
+	wgt-serve

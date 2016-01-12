@@ -5,6 +5,7 @@ import (
 	"html/template"
 	"log"
 	"os"
+	"sort"
 	"strings"
 
 	"github.com/brandur/wgt2"
@@ -16,6 +17,12 @@ const (
 	TargetAssetsDir = "./public/assets/"
 	TargetDir       = "./public/"
 )
+
+type artistSlice []*wgt2.Artist
+
+func (s artistSlice) Len() int           { return len(s) }
+func (s artistSlice) Swap(i, j int)      { s[i], s[j] = s[j], s[i] }
+func (s artistSlice) Less(i, j int) bool { return s[i].Name < s[j].Name }
 
 func main() {
 	// create an output directory (the assets subdirectory here because its
@@ -42,6 +49,9 @@ func main() {
 	for _, artist := range db.Artists.Data {
 		artists = append(artists, artist)
 	}
+
+	// Go doesn't exactly make sorting easy ...
+	sort.Sort(artistSlice(artists))
 
 	file, err := os.Create(TargetDir + "index")
 	if err != nil {
