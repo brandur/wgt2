@@ -21,7 +21,7 @@ And add the resulting refresh token to `.env`:
 
     REFRESH_TOKEN=...
 
-### Generate
+## Generate
 
 Scrape artist list from the WGT site, enrichen it using the Spotify API, and
 then build static artifacts:

@@ -1,0 +1,53 @@
+= doctype html
+html lang=en
+  head
+    / Include these first
+    meta charset="utf-8"
+    meta http-equiv="X-UA-Compatible" content="IE=edge"
+    meta name="viewport" content="width=device-width, initial-scale=1"
+
+    title WGT Information 2016
+    link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
+    link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.4/darkly/bootstrap.min.css"
+
+    style
+      | table#artists td#name {
+          width: 30%;
+        }
+
+        table#artists td#genres,
+        table#artists td#popular-songs {
+          font-size: 12px
+        }
+
+  body
+    .container
+      div
+        h1 WGT Information
+        p.lead An artist informational list for the Wave-Gotik-Treffen.
+
+        h2 Artists
+        p List of artists that are confirmed at WGT so far.
+
+        table#artists class="table table-striped table-hover"
+          tr
+            th#name Artist
+            th#popularity Popularity
+            th#genres Genres
+            th#popular-songs Popular Songs
+          {{range .artists}}
+          tr
+            td#name {{.Name}}
+            td#popularity {{.Popularity}}
+            td#genres {{JoinStrings .Genres}}
+            td#popular-songs
+              ul
+                {{range .TopTracks}}
+                li {{.Name}}
+                {{end}}
+          {{end}}
+
+        p Note that this site is in no way affiliated with the official event. Extracted information is procured from Spotify and is not guaranteed to be accurate.
+
+    script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+    script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"
