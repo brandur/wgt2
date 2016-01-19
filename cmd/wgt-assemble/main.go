@@ -9,8 +9,9 @@ import (
 )
 
 var (
-	DBFilename   = "./data.yaml"
-	PlaylistName = "WGT 2016"
+	DBFilename          = "./data.yaml"
+	PlaylistName        = "WGT 2016"
+	PlaylistNamePopular = "WGT 2016 - Popular"
 )
 
 type Conf struct {
@@ -38,11 +39,25 @@ func main() {
 		log.Fatal(err.Error())
 	}
 
-	playlist, err := getPlaylist(client, user)
+	playlist, err := getPlaylist(client, user, PlaylistName)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
 
+	var trackIDs []spotify.ID
+	for _, artist := range db.Artists.Data {
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = addTracksToPlaylist(client, user, playlist, trackIDs)
+	if err != nil {
+		log.Fatal(err.Error())
+	}
+}
+
+func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, playlist *spotify.SimplePlaylist, trackIDs []spotify.ID) error {
 	allTracks := make(map[spotify.ID]spotify.FullTrack)
 	limit := 100
 	offset := 0
@@ -54,7 +69,7 @@ func main() {
 	for {
 		tracksPage, err := client.GetPlaylistTracksOpt(user.ID, playlist.ID, &options, "")
 		if err != nil {
-			log.Fatal(err.Error())
+			return err
 		}
 
 		log.Printf("Fetched playlist page of %v track(s)", len(tracksPage.Tracks))
@@ -75,49 +90,47 @@ func main() {
 
 	log.Printf("Current playlist has %v track(s)", len(allTracks))
 
-	// track IDs to add to the playlist
-	var trackIDs []spotify.ID
-
-	for _, artist := range db.Artists.Data {
-		for _, track := range artist.TopTracks {
-			if _, ok := allTracks[spotify.ID(track.ID)]; !ok {
-				trackIDs = append(trackIDs, spotify.ID(track.ID))
-			}
+	var trackIDsToAdd []spotify.ID
+	for _, id := range trackIDs {
+		if _, ok := allTracks[id]; !ok {
+			trackIDsToAdd = append(trackIDs, id)
 		}
 	}
 
-	log.Printf("Need to add %v track(s) to playlist", len(trackIDs))
+	log.Printf("Need to add %v track(s) to playlist", len(trackIDsToAdd))
 
-	for i := 0; i < len(trackIDs); i += 100 {
+	for i := 0; i < len(trackIDsToAdd); i += 100 {
 		bound := i + 100
-		if bound > len(trackIDs) {
-			bound = len(trackIDs)
+		if bound > len(trackIDsToAdd) {
+			bound = len(trackIDsToAdd)
 		}
 
-		_, err := client.AddTracksToPlaylist(user.ID, playlist.ID, trackIDs[i:bound]...)
+		_, err := client.AddTracksToPlaylist(user.ID, playlist.ID, trackIDsToAdd[i:bound]...)
 		if err != nil {
-			log.Fatal(err.Error())
+			return err
 		}
-		log.Printf("Added page of %v track(s) to playlist", len(trackIDs[i:bound]))
+		log.Printf("Added page of %v track(s) to playlist", len(trackIDsToAdd[i:bound]))
 	}
+
+	return nil
 }
 
-func getPlaylist(client *spotify.Client, user *spotify.PrivateUser) (*spotify.SimplePlaylist, error) {
+func getPlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName string) (*spotify.SimplePlaylist, error) {
 	page, err := client.CurrentUsersPlaylists()
 	if err != nil {
 		return nil, err
 	}
 
 	for _, playlist := range page.Playlists {
-		if playlist.Name == PlaylistName {
-			log.Printf("Found playlist: %v", PlaylistName)
+		if playlist.Name == playlistName {
+			log.Printf("Found playlist: %v", playlistName)
 			return &playlist, nil
 		}
 	}
 
 	// otherwise create a new playlist for the user
-	log.Printf("Creating playlist: %v", PlaylistName)
+	log.Printf("Creating playlist: %v", playlistName)
 
-	playlist, err := client.CreatePlaylistForUser(user.ID, PlaylistName, true)
+	playlist, err := client.CreatePlaylistForUser(user.ID, playlistName, true)
 	return &playlist.SimplePlaylist, err
 }
