@@ -26,6 +26,19 @@ html lang=en
         h1 WGT Information
         p.lead An artist informational list for the Wave-Gotik-Treffen.
 
+        h2 Playlists
+        p A set of Spotify playlists containing the top songs of artists known to be attending WGT.
+        ul
+          li
+            a href="https://open.spotify.com/user/fyrerise/playlist/1rvNtuMAe7QU37D3VnmJkr"
+              | WGT 2016
+          li
+            a href="https://open.spotify.com/user/fyrerise/playlist/66eDcdbHkyG2Vflvx2ysXE"
+              | WGT 2016 &mdash; Obscure
+          li
+            a href="https://open.spotify.com/user/fyrerise/playlist/7kpZfWUt5PnJrmBP2yFSAl"
+              | WGT 2016 &mdash; Popular
+
         h2 Artists
         p List of artists that are confirmed at WGT so far.
 
