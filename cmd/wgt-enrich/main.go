@@ -22,6 +22,13 @@ var (
 
 		// Incorrectly maps to NAO.
 		"Näo": "",
+
+		// Just don't seem to exist (might be worth re-checking these ones
+		// periodically, but I've added them here so as not to unnecessarily
+		// burn rate limit).
+		"Tanz Ohne Musik": "",
+		"Triarii":         "",
+		"Winterkälte":     "",
 	}
 )
 
