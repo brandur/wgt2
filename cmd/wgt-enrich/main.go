@@ -23,6 +23,12 @@ var (
 		// Incorrectly maps to NAO.
 		"Näo": "",
 
+		// This artist has a really unfortunate name and Spotify will return
+		// other "* Reaper" bands first. Hard-code some conditions to avoid
+		// "Grim Reaper" and "White Reaper" to get the band that I think WGT is
+		// referring to here.
+		"Reaper": "Reaper NOT Grim NOT White",
+
 		// Just don't seem to exist (might be worth re-checking these ones
 		// periodically, but I've added them here so as not to unnecessarily
 		// burn rate limit).
