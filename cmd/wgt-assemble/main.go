@@ -68,10 +68,11 @@ func main() {
 		}
 	}
 
-	err = updatePlaylist(client, user, PlaylistName, trackIDs)
+	dbPlaylist, err := updatePlaylist(client, user, PlaylistName, trackIDs)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
+	db.Playlists.AddPlaylist(dbPlaylist)
 
 	//
 	// Popular playlist
@@ -93,10 +94,11 @@ func main() {
 		}
 	}
 
-	err = updatePlaylist(client, user, PlaylistNamePopular, trackIDs)
+	dbPlaylist, err = updatePlaylist(client, user, PlaylistNamePopular, trackIDs)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
+	db.Playlists.AddPlaylist(dbPlaylist)
 
 	//
 	// Obscure playlist
@@ -118,7 +120,13 @@ func main() {
 		}
 	}
 
-	err = updatePlaylist(client, user, PlaylistNameObscure, trackIDs)
+	dbPlaylist, err = updatePlaylist(client, user, PlaylistNameObscure, trackIDs)
+	if err != nil {
+		log.Fatal(err.Error())
+	}
+	db.Playlists.AddPlaylist(dbPlaylist)
+
+	err = db.Save()
 	if err != nil {
 		log.Fatal(err.Error())
 	}
@@ -139,7 +147,7 @@ func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, play
 			return err
 		}
 
-		log.Printf("Playlist %v: of %v track(s)", playlist.Name, len(tracksPage.Tracks))
+		log.Printf("Playlist %v: fetched page of %v track(s)", playlist.Name, len(tracksPage.Tracks))
 
 		for _, playlistTrack := range tracksPage.Tracks {
 			track := playlistTrack.Track
@@ -204,16 +212,22 @@ func getPlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName
 	return &playlist.SimplePlaylist, err
 }
 
-func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName string, trackIDs []spotify.ID) error {
+func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName string, trackIDs []spotify.ID) (*wgt2.Playlist, error) {
 	playlist, err := getPlaylist(client, user, playlistName)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	err = addTracksToPlaylist(client, user, playlist, trackIDs)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
-	return nil
+	dbPlaylist := &wgt2.Playlist{
+		ID:   string(playlist.ID),
+		Name: playlist.Name,
+		URI:  string(playlist.URI),
+	}
+
+	return dbPlaylist, nil
 }

@@ -13,7 +13,7 @@ type Artist struct {
 	// Genres that the artist belongs to. May be empty if unclassified.
 	Genres []string `yaml:"genres"`
 
-	// Canoical artist ID from Spotify.
+	// Canonical artist ID from Spotify.
 	ID string `yaml:"id"`
 
 	// Canonical artist name from Spotify.
@@ -74,6 +74,9 @@ type Database struct {
 	// Name of the file to which to save the database.
 	Filename string
 
+	// Playlists on Spotify.
+	Playlists *PlaylistCollection `yaml:"playlists"`
+
 	// List of raw artist data from the WGT website.
 	RawArtists *RawArtistCollection `yaml:"raw_artists"`
 }
@@ -83,6 +86,9 @@ func NewDatabase() *Database {
 		Artists: &ArtistCollection{
 			ByWGTName: make(map[string]string),
 			Data:      make(map[string]*Artist),
+		},
+		Playlists: &PlaylistCollection{
+			Data: make(map[string]*Playlist),
 		},
 		RawArtists: &RawArtistCollection{},
 	}
@@ -126,6 +132,40 @@ func (db *Database) Save() error {
 
 	err = ioutil.WriteFile(db.Filename, data, 0755)
 	return err
+}
+
+type Playlist struct {
+	// Canonical playlist ID from Spotify.
+	ID string `yaml:"id"`
+
+	// Name of the playlist.
+	Name string `yaml:"name"`
+
+	// Link to the playlist.
+	URI string `yaml:"uri"`
+}
+
+type PlaylistCollection struct {
+	// Map of artists keyed to a name.
+	Data map[string]*Playlist `yaml:"data"`
+}
+
+func (c *PlaylistCollection) AddPlaylist(playlist *Playlist) error {
+	if playlist.ID == "" {
+		return fmt.Errorf("Playlist ID cannot be empty")
+	}
+
+	if playlist.Name == "" {
+		return fmt.Errorf("Playlist name cannot be empty")
+	}
+
+	c.Data[playlist.Name] = playlist
+
+	return nil
+}
+
+func (c *PlaylistCollection) GetPlaylistByName(name string) *Playlist {
+	return c.Data[name]
 }
 
 type RawArtist struct {
