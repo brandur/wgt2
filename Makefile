@@ -1,4 +1,7 @@
-all: install scrape enrich render deploy
+all: install scrape enrich render assemble deploy
+
+assemble: enrich
+	wgt-assemble
 
 build:
 	go build ./...
