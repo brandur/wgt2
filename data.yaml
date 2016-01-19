@@ -49,54 +49,6 @@ artists:
     Winter Severity Index: spotify:artist:5RxKFWH5QHNCQkEhjYHkUC
     XTR Human: spotify:artist:2rZkWg6RaoiuFmHrtrh0T4
   data:
-    spotify:artist:01loZJplQY8BPxLA8yNW8O:
-      genres: []
-      id: 01loZJplQY8BPxLA8yNW8O
-      name: Lament
-      popularity: 2
-      tracks:
-      - id: 7Aqc0cM16thYSlkaex7Uzw
-        name: Seven Brides For Seven Brothers - lonesome polecat
-        popularity: 7
-        uri: spotify:track:7Aqc0cM16thYSlkaex7Uzw
-      - id: 2rU58g4IswZQVYwQZqPlFQ
-        name: Last Dance of Summer
-        popularity: 1
-        uri: spotify:track:2rU58g4IswZQVYwQZqPlFQ
-      - id: 7hqcf3I3iPRRsLVxl9dyQr
-        name: Through The Reflection
-        popularity: 1
-        uri: spotify:track:7hqcf3I3iPRRsLVxl9dyQr
-      - id: 21Kkdmwf51xhOcBrhBGmQp
-        name: Come Near
-        popularity: 1
-        uri: spotify:track:21Kkdmwf51xhOcBrhBGmQp
-      - id: 6bHtkdc26NEGRUdIDnsHtx
-        name: 1250 Dead Without Reason
-        popularity: 0
-        uri: spotify:track:6bHtkdc26NEGRUdIDnsHtx
-      - id: 2pXNBO9O8I4I8nKCuDo0DH
-        name: A Cry Near The Forest
-        popularity: 0
-        uri: spotify:track:2pXNBO9O8I4I8nKCuDo0DH
-      - id: 1zbi04pu0TdWW01xHeigJJ
-        name: Roots Of Wind
-        popularity: 0
-        uri: spotify:track:1zbi04pu0TdWW01xHeigJJ
-      - id: 0L2gFoOh6F55Q0uyHSeWNf
-        name: The Wind Of My Heart
-        popularity: 0
-        uri: spotify:track:0L2gFoOh6F55Q0uyHSeWNf
-      - id: 7kfUuRN28zcEHJsm0JtRy9
-        name: A Dream At Sunset
-        popularity: 0
-        uri: spotify:track:7kfUuRN28zcEHJsm0JtRy9
-      - id: 3t9mq6LZ8YqyClt6zWUbdp
-        name: Tears…Instrument For Reflection
-        popularity: 0
-        uri: spotify:track:3t9mq6LZ8YqyClt6zWUbdp
-      uri: spotify:artist:01loZJplQY8BPxLA8yNW8O
-      wgt_name: Lament
     spotify:artist:0LoTca0hXCrgYsAn8X2Ojx:
       genres: []
       id: 0LoTca0hXCrgYsAn8X2Ojx
@@ -645,6 +597,102 @@ artists:
         uri: spotify:track:35wELupyFCtKshLgLyHkZo
       uri: spotify:artist:1wTjVvGxIxcZrHCansPELR
       wgt_name: Culture Kultür
+    spotify:artist:01loZJplQY8BPxLA8yNW8O:
+      genres: []
+      id: 01loZJplQY8BPxLA8yNW8O
+      name: Lament
+      popularity: 2
+      tracks:
+      - id: 7Aqc0cM16thYSlkaex7Uzw
+        name: Seven Brides For Seven Brothers - lonesome polecat
+        popularity: 7
+        uri: spotify:track:7Aqc0cM16thYSlkaex7Uzw
+      - id: 2rU58g4IswZQVYwQZqPlFQ
+        name: Last Dance of Summer
+        popularity: 1
+        uri: spotify:track:2rU58g4IswZQVYwQZqPlFQ
+      - id: 7hqcf3I3iPRRsLVxl9dyQr
+        name: Through The Reflection
+        popularity: 1
+        uri: spotify:track:7hqcf3I3iPRRsLVxl9dyQr
+      - id: 21Kkdmwf51xhOcBrhBGmQp
+        name: Come Near
+        popularity: 1
+        uri: spotify:track:21Kkdmwf51xhOcBrhBGmQp
+      - id: 6bHtkdc26NEGRUdIDnsHtx
+        name: 1250 Dead Without Reason
+        popularity: 0
+        uri: spotify:track:6bHtkdc26NEGRUdIDnsHtx
+      - id: 2pXNBO9O8I4I8nKCuDo0DH
+        name: A Cry Near The Forest
+        popularity: 0
+        uri: spotify:track:2pXNBO9O8I4I8nKCuDo0DH
+      - id: 1zbi04pu0TdWW01xHeigJJ
+        name: Roots Of Wind
+        popularity: 0
+        uri: spotify:track:1zbi04pu0TdWW01xHeigJJ
+      - id: 0L2gFoOh6F55Q0uyHSeWNf
+        name: The Wind Of My Heart
+        popularity: 0
+        uri: spotify:track:0L2gFoOh6F55Q0uyHSeWNf
+      - id: 7kfUuRN28zcEHJsm0JtRy9
+        name: A Dream At Sunset
+        popularity: 0
+        uri: spotify:track:7kfUuRN28zcEHJsm0JtRy9
+      - id: 3t9mq6LZ8YqyClt6zWUbdp
+        name: Tears…Instrument For Reflection
+        popularity: 0
+        uri: spotify:track:3t9mq6LZ8YqyClt6zWUbdp
+      uri: spotify:artist:01loZJplQY8BPxLA8yNW8O
+      wgt_name: Lament
+    spotify:artist:295dvgS4Oy6dyjLiPBButt:
+      genres: []
+      id: 295dvgS4Oy6dyjLiPBButt
+      name: Amnistia
+      popularity: 10
+      tracks:
+      - id: 3u1AiOYFYSxEhbBF7gKAQx
+        name: Vanish into Air
+        popularity: 15
+        uri: spotify:track:3u1AiOYFYSxEhbBF7gKAQx
+      - id: 3q0TxeAYXb7ao3dpkeAk7D
+        name: Blackguard
+        popularity: 12
+        uri: spotify:track:3q0TxeAYXb7ao3dpkeAk7D
+      - id: 2mztQ5zF71io3EncMPN30m
+        name: Elements (Rotersand Rework)
+        popularity: 8
+        uri: spotify:track:2mztQ5zF71io3EncMPN30m
+      - id: 2qV6VRkCKRlAOWuTjoXSnP
+        name: Egotrap
+        popularity: 7
+        uri: spotify:track:2qV6VRkCKRlAOWuTjoXSnP
+      - id: 5XcbQMCBy9dqP1U3mD4SZF
+        name: Faceless
+        popularity: 7
+        uri: spotify:track:5XcbQMCBy9dqP1U3mD4SZF
+      - id: 6k5Z8MfPWW6sLt265eNfTC
+        name: More
+        popularity: 4
+        uri: spotify:track:6k5Z8MfPWW6sLt265eNfTC
+      - id: 7snOlKFyj7HjTUPlZu141M
+        name: Crash Course with Life
+        popularity: 4
+        uri: spotify:track:7snOlKFyj7HjTUPlZu141M
+      - id: 6l4Kpj21qOKmRyEnHn5Ilz
+        name: Catch Me
+        popularity: 4
+        uri: spotify:track:6l4Kpj21qOKmRyEnHn5Ilz
+      - id: 14pX3Jz5Oh3CdFmUZ0VqcS
+        name: More (Nordarr Remix)
+        popularity: 3
+        uri: spotify:track:14pX3Jz5Oh3CdFmUZ0VqcS
+      - id: 6m4oiiaWmPR07O4Mj7f24X
+        name: Contrast
+        popularity: 3
+        uri: spotify:track:6m4oiiaWmPR07O4Mj7f24X
+      uri: spotify:artist:295dvgS4Oy6dyjLiPBButt
+      wgt_name: Amnistia
     spotify:artist:2Hupv6e87TIsohgH4w4R8e:
       genres:
       - psych gaze
@@ -2258,55 +2306,21 @@ artists:
         uri: spotify:track:4wq9b2MWi1XBHrdDhP2f80
       uri: spotify:artist:35GGGxiZ0AtRMf11IQ7A4t
       wgt_name: Tragic Black
-    spotify:artist:295dvgS4Oy6dyjLiPBButt:
-      genres: []
-      id: 295dvgS4Oy6dyjLiPBButt
-      name: Amnistia
-      popularity: 10
-      tracks:
-      - id: 3u1AiOYFYSxEhbBF7gKAQx
-        name: Vanish into Air
-        popularity: 15
-        uri: spotify:track:3u1AiOYFYSxEhbBF7gKAQx
-      - id: 3q0TxeAYXb7ao3dpkeAk7D
-        name: Blackguard
-        popularity: 12
-        uri: spotify:track:3q0TxeAYXb7ao3dpkeAk7D
-      - id: 2mztQ5zF71io3EncMPN30m
-        name: Elements (Rotersand Rework)
-        popularity: 8
-        uri: spotify:track:2mztQ5zF71io3EncMPN30m
-      - id: 2qV6VRkCKRlAOWuTjoXSnP
-        name: Egotrap
-        popularity: 7
-        uri: spotify:track:2qV6VRkCKRlAOWuTjoXSnP
-      - id: 5XcbQMCBy9dqP1U3mD4SZF
-        name: Faceless
-        popularity: 7
-        uri: spotify:track:5XcbQMCBy9dqP1U3mD4SZF
-      - id: 6k5Z8MfPWW6sLt265eNfTC
-        name: More
-        popularity: 4
-        uri: spotify:track:6k5Z8MfPWW6sLt265eNfTC
-      - id: 7snOlKFyj7HjTUPlZu141M
-        name: Crash Course with Life
-        popularity: 4
-        uri: spotify:track:7snOlKFyj7HjTUPlZu141M
-      - id: 6l4Kpj21qOKmRyEnHn5Ilz
-        name: Catch Me
-        popularity: 4
-        uri: spotify:track:6l4Kpj21qOKmRyEnHn5Ilz
-      - id: 14pX3Jz5Oh3CdFmUZ0VqcS
-        name: More (Nordarr Remix)
-        popularity: 3
-        uri: spotify:track:14pX3Jz5Oh3CdFmUZ0VqcS
-      - id: 6m4oiiaWmPR07O4Mj7f24X
-        name: Contrast
-        popularity: 3
-        uri: spotify:track:6m4oiiaWmPR07O4Mj7f24X
-      uri: spotify:artist:295dvgS4Oy6dyjLiPBButt
-      wgt_name: Amnistia
 filename: ./data.yaml
+playlists:
+  data:
+    WGT 2016:
+      id: 1rvNtuMAe7QU37D3VnmJkr
+      name: WGT 2016
+      uri: spotify:user:fyrerise:playlist:1rvNtuMAe7QU37D3VnmJkr
+    WGT 2016 - Obscure:
+      id: 66eDcdbHkyG2Vflvx2ysXE
+      name: WGT 2016 - Obscure
+      uri: spotify:user:fyrerise:playlist:66eDcdbHkyG2Vflvx2ysXE
+    WGT 2016 - Popular:
+      id: 7kpZfWUt5PnJrmBP2yFSAl
+      name: WGT 2016 - Popular
+      uri: spotify:user:fyrerise:playlist:7kpZfWUt5PnJrmBP2yFSAl
 raw_artists:
   data:
   - wgt_name: Amnistia
