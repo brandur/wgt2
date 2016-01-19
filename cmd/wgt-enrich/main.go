@@ -2,12 +2,10 @@ package main
 
 import (
 	"log"
-	"time"
 
 	"github.com/brandur/wgt2"
 	"github.com/joeshaw/envdecode"
 	"github.com/zmb3/spotify"
-	"golang.org/x/oauth2"
 )
 
 const (
@@ -40,7 +38,7 @@ func main() {
 		log.Fatal(err.Error())
 	}
 
-	client := getClient(&conf)
+	client := wgt2.GetSpotifyClient(conf.ClientID, conf.ClientSecret, conf.RefreshToken)
 
 	db, err := wgt2.LoadDatabase(DBFilename)
 	if err != nil {
@@ -111,21 +109,4 @@ func main() {
 	if err != nil {
 		log.Fatal(err.Error())
 	}
-}
-
-func getClient(conf *Conf) *spotify.Client {
-	// So as not to introduce a web flow into this program, we cheat a bit here
-	// by just using a refresh token and not an access token (because access
-	// tokens expiry very quickly and are therefore not suitable for inclusion
-	// in configuration). This will force a refresh on the first call, but meh.
-	token := new(oauth2.Token)
-	token.Expiry = time.Now().Add(time.Second * -1)
-	token.RefreshToken = conf.RefreshToken
-
-	// See comment above. We've already procured the first access/refresh token
-	// pair outside of this program, so no redirect URL is necessary.
-	authenticator := spotify.NewAuthenticator("no-redirect-url")
-	authenticator.SetAuthInfo(conf.ClientID, conf.ClientSecret)
-	client := authenticator.NewClient(token)
-	return &client
 }
