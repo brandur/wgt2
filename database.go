@@ -141,7 +141,7 @@ type Playlist struct {
 	// Name of the playlist.
 	Name string `yaml:"name"`
 
-	// Link to the playlist.
+	// Spotify "URI" (i.e. unique identifier) of the playlist.
 	URI string `yaml:"uri"`
 }
 
