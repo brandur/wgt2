@@ -49,12 +49,33 @@ func main() {
 		log.Fatal(err.Error())
 	}
 
-	err = updatePlaylist(client, user, db)
+	var trackIDs []spotify.ID
+
+	trackIDs = nil
+	for _, artist := range db.Artists.Data {
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = updatePlaylist(client, user, PlaylistName, trackIDs)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
 
-	err = updatePlaylistPopular(client, user, db)
+	trackIDs = nil
+	for _, artist := range db.Artists.Data {
+		// an arbitrary threshold
+		if artist.Popularity < 20 {
+			continue
+		}
+
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = updatePlaylist(client, user, PlaylistNamePopular, trackIDs)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
@@ -140,43 +161,10 @@ func getPlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName
 	return &playlist.SimplePlaylist, err
 }
 
-func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, db *wgt2.Database) error {
-	playlist, err := getPlaylist(client, user, PlaylistName)
+func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName string, trackIDs []spotify.ID) error {
+	playlist, err := getPlaylist(client, user, playlistName)
 	if err != nil {
 		return err
-	}
-
-	var trackIDs []spotify.ID
-	for _, artist := range db.Artists.Data {
-		for _, track := range artist.TopTracks {
-			trackIDs = append(trackIDs, spotify.ID(track.ID))
-		}
-	}
-
-	err = addTracksToPlaylist(client, user, playlist, trackIDs)
-	if err != nil {
-		return err
-	}
-
-	return nil
-}
-
-func updatePlaylistPopular(client *spotify.Client, user *spotify.PrivateUser, db *wgt2.Database) error {
-	playlist, err := getPlaylist(client, user, PlaylistNamePopular)
-	if err != nil {
-		return err
-	}
-
-	var trackIDs []spotify.ID
-	for _, artist := range db.Artists.Data {
-		// an arbitrary threshold
-		if artist.Popularity < 20 {
-			continue
-		}
-
-		for _, track := range artist.TopTracks {
-			trackIDs = append(trackIDs, spotify.ID(track.ID))
-		}
 	}
 
 	err = addTracksToPlaylist(client, user, playlist, trackIDs)
