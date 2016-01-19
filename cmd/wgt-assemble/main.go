@@ -1,5 +1,15 @@
 package main
 
+//
+// Usage caveats:
+//
+//   * Not even remotely safe for concurrent runs. Two programs running
+//     simultaneously can easily create two playlists with the same name or add
+//     tracks twice.
+//
+//   * Tracks are only added and never removed.
+//
+
 import (
 	"log"
 
@@ -39,19 +49,12 @@ func main() {
 		log.Fatal(err.Error())
 	}
 
-	playlist, err := getPlaylist(client, user, PlaylistName)
+	err = updatePlaylist(client, user, db)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
 
-	var trackIDs []spotify.ID
-	for _, artist := range db.Artists.Data {
-		for _, track := range artist.TopTracks {
-			trackIDs = append(trackIDs, spotify.ID(track.ID))
-		}
-	}
-
-	err = addTracksToPlaylist(client, user, playlist, trackIDs)
+	err = updatePlaylistPopular(client, user, db)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
@@ -72,7 +75,7 @@ func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, play
 			return err
 		}
 
-		log.Printf("Fetched playlist page of %v track(s)", len(tracksPage.Tracks))
+		log.Printf("Playlist %v: of %v track(s)", playlist.Name, len(tracksPage.Tracks))
 
 		for _, playlistTrack := range tracksPage.Tracks {
 			track := playlistTrack.Track
@@ -88,7 +91,7 @@ func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, play
 		offset = offset + len(tracksPage.Tracks)
 	}
 
-	log.Printf("Current playlist has %v track(s)", len(allTracks))
+	log.Printf("Playlist %v: %v track(s)", playlist.Name, len(allTracks))
 
 	var trackIDsToAdd []spotify.ID
 	for _, id := range trackIDs {
@@ -97,7 +100,8 @@ func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, play
 		}
 	}
 
-	log.Printf("Need to add %v track(s) to playlist", len(trackIDsToAdd))
+	log.Printf("Playlist %v: Need to add %v track(s)", playlist.Name,
+		len(trackIDsToAdd))
 
 	for i := 0; i < len(trackIDsToAdd); i += 100 {
 		bound := i + 100
@@ -109,7 +113,8 @@ func addTracksToPlaylist(client *spotify.Client, user *spotify.PrivateUser, play
 		if err != nil {
 			return err
 		}
-		log.Printf("Added page of %v track(s) to playlist", len(trackIDsToAdd[i:bound]))
+		log.Printf("Playlist %v: added page of %v track(s)", playlist.Name,
+			len(trackIDsToAdd[i:bound]))
 	}
 
 	return nil
@@ -133,4 +138,51 @@ func getPlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistName
 
 	playlist, err := client.CreatePlaylistForUser(user.ID, playlistName, true)
 	return &playlist.SimplePlaylist, err
+}
+
+func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, db *wgt2.Database) error {
+	playlist, err := getPlaylist(client, user, PlaylistName)
+	if err != nil {
+		return err
+	}
+
+	var trackIDs []spotify.ID
+	for _, artist := range db.Artists.Data {
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = addTracksToPlaylist(client, user, playlist, trackIDs)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func updatePlaylistPopular(client *spotify.Client, user *spotify.PrivateUser, db *wgt2.Database) error {
+	playlist, err := getPlaylist(client, user, PlaylistNamePopular)
+	if err != nil {
+		return err
+	}
+
+	var trackIDs []spotify.ID
+	for _, artist := range db.Artists.Data {
+		// an arbitrary threshold
+		if artist.Popularity < 20 {
+			continue
+		}
+
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = addTracksToPlaylist(client, user, playlist, trackIDs)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }
