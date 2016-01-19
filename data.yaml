@@ -37,7 +37,7 @@ artists:
     Neuroticfish: spotify:artist:1nAFTfHqP2WGCKJDKH5yqx
     Nullvektor: spotify:artist:5ZFQP37t7siJu1oArvumyu
     Peter Yates: spotify:artist:2bgbVGrSNMoTB9xNqZNJt1
-    Reaper: spotify:artist:3CSQtK60sg2jNNxnpThSN1
+    Reaper: spotify:artist:5EEw5ABtKN2jJWKvoe7NYU
     Siechtum: spotify:artist:7h1hgj6RuXemJWYK0wjl0i
     Sigue Sigue Sputnik: spotify:artist:6GKVXdXGEOPzpilArcqBun
     Suicide Commando: spotify:artist:4N99bzdRBNRi7hGNCpMuhu
@@ -49,6 +49,54 @@ artists:
     Winter Severity Index: spotify:artist:5RxKFWH5QHNCQkEhjYHkUC
     XTR Human: spotify:artist:2rZkWg6RaoiuFmHrtrh0T4
   data:
+    spotify:artist:01loZJplQY8BPxLA8yNW8O:
+      genres: []
+      id: 01loZJplQY8BPxLA8yNW8O
+      name: Lament
+      popularity: 2
+      tracks:
+      - id: 7Aqc0cM16thYSlkaex7Uzw
+        name: Seven Brides For Seven Brothers - lonesome polecat
+        popularity: 7
+        uri: spotify:track:7Aqc0cM16thYSlkaex7Uzw
+      - id: 2rU58g4IswZQVYwQZqPlFQ
+        name: Last Dance of Summer
+        popularity: 1
+        uri: spotify:track:2rU58g4IswZQVYwQZqPlFQ
+      - id: 7hqcf3I3iPRRsLVxl9dyQr
+        name: Through The Reflection
+        popularity: 1
+        uri: spotify:track:7hqcf3I3iPRRsLVxl9dyQr
+      - id: 21Kkdmwf51xhOcBrhBGmQp
+        name: Come Near
+        popularity: 1
+        uri: spotify:track:21Kkdmwf51xhOcBrhBGmQp
+      - id: 6bHtkdc26NEGRUdIDnsHtx
+        name: 1250 Dead Without Reason
+        popularity: 0
+        uri: spotify:track:6bHtkdc26NEGRUdIDnsHtx
+      - id: 2pXNBO9O8I4I8nKCuDo0DH
+        name: A Cry Near The Forest
+        popularity: 0
+        uri: spotify:track:2pXNBO9O8I4I8nKCuDo0DH
+      - id: 1zbi04pu0TdWW01xHeigJJ
+        name: Roots Of Wind
+        popularity: 0
+        uri: spotify:track:1zbi04pu0TdWW01xHeigJJ
+      - id: 0L2gFoOh6F55Q0uyHSeWNf
+        name: The Wind Of My Heart
+        popularity: 0
+        uri: spotify:track:0L2gFoOh6F55Q0uyHSeWNf
+      - id: 7kfUuRN28zcEHJsm0JtRy9
+        name: A Dream At Sunset
+        popularity: 0
+        uri: spotify:track:7kfUuRN28zcEHJsm0JtRy9
+      - id: 3t9mq6LZ8YqyClt6zWUbdp
+        name: Tears…Instrument For Reflection
+        popularity: 0
+        uri: spotify:track:3t9mq6LZ8YqyClt6zWUbdp
+      uri: spotify:artist:01loZJplQY8BPxLA8yNW8O
+      wgt_name: Lament
     spotify:artist:0LoTca0hXCrgYsAn8X2Ojx:
       genres: []
       id: 0LoTca0hXCrgYsAn8X2Ojx
@@ -597,54 +645,6 @@ artists:
         uri: spotify:track:35wELupyFCtKshLgLyHkZo
       uri: spotify:artist:1wTjVvGxIxcZrHCansPELR
       wgt_name: Culture Kultür
-    spotify:artist:01loZJplQY8BPxLA8yNW8O:
-      genres: []
-      id: 01loZJplQY8BPxLA8yNW8O
-      name: Lament
-      popularity: 2
-      tracks:
-      - id: 7Aqc0cM16thYSlkaex7Uzw
-        name: Seven Brides For Seven Brothers - lonesome polecat
-        popularity: 7
-        uri: spotify:track:7Aqc0cM16thYSlkaex7Uzw
-      - id: 2rU58g4IswZQVYwQZqPlFQ
-        name: Last Dance of Summer
-        popularity: 1
-        uri: spotify:track:2rU58g4IswZQVYwQZqPlFQ
-      - id: 7hqcf3I3iPRRsLVxl9dyQr
-        name: Through The Reflection
-        popularity: 1
-        uri: spotify:track:7hqcf3I3iPRRsLVxl9dyQr
-      - id: 21Kkdmwf51xhOcBrhBGmQp
-        name: Come Near
-        popularity: 1
-        uri: spotify:track:21Kkdmwf51xhOcBrhBGmQp
-      - id: 6bHtkdc26NEGRUdIDnsHtx
-        name: 1250 Dead Without Reason
-        popularity: 0
-        uri: spotify:track:6bHtkdc26NEGRUdIDnsHtx
-      - id: 2pXNBO9O8I4I8nKCuDo0DH
-        name: A Cry Near The Forest
-        popularity: 0
-        uri: spotify:track:2pXNBO9O8I4I8nKCuDo0DH
-      - id: 1zbi04pu0TdWW01xHeigJJ
-        name: Roots Of Wind
-        popularity: 0
-        uri: spotify:track:1zbi04pu0TdWW01xHeigJJ
-      - id: 0L2gFoOh6F55Q0uyHSeWNf
-        name: The Wind Of My Heart
-        popularity: 0
-        uri: spotify:track:0L2gFoOh6F55Q0uyHSeWNf
-      - id: 7kfUuRN28zcEHJsm0JtRy9
-        name: A Dream At Sunset
-        popularity: 0
-        uri: spotify:track:7kfUuRN28zcEHJsm0JtRy9
-      - id: 3t9mq6LZ8YqyClt6zWUbdp
-        name: Tears…Instrument For Reflection
-        popularity: 0
-        uri: spotify:track:3t9mq6LZ8YqyClt6zWUbdp
-      uri: spotify:artist:01loZJplQY8BPxLA8yNW8O
-      wgt_name: Lament
     spotify:artist:2Hupv6e87TIsohgH4w4R8e:
       genres:
       - psych gaze
@@ -984,55 +984,6 @@ artists:
         uri: spotify:track:0p3jCVAamfXE9n79qMnJcl
       uri: spotify:artist:2rZkWg6RaoiuFmHrtrh0T4
       wgt_name: XTR Human
-    spotify:artist:3CSQtK60sg2jNNxnpThSN1:
-      genres:
-      - nwobhm
-      id: 3CSQtK60sg2jNNxnpThSN1
-      name: Grim Reaper
-      popularity: 30
-      tracks:
-      - id: 0Sn20pHyBZ8KTJasKs3GSM
-        name: Rock You To Hell
-        popularity: 34
-        uri: spotify:track:0Sn20pHyBZ8KTJasKs3GSM
-      - id: 30qV7b1T8K48Nf61oZ4us7
-        name: See You In Hell
-        popularity: 33
-        uri: spotify:track:30qV7b1T8K48Nf61oZ4us7
-      - id: 0kMIoF4WZvUuk2qgpyXVGA
-        name: Fear No Evil
-        popularity: 24
-        uri: spotify:track:0kMIoF4WZvUuk2qgpyXVGA
-      - id: 2dlPl5yPY3jR723luEI58F
-        name: See You in Hell
-        popularity: 23
-        uri: spotify:track:2dlPl5yPY3jR723luEI58F
-      - id: 40hL049vncDOSulMgcQbgQ
-        name: Lust For Freedom
-        popularity: 21
-        uri: spotify:track:40hL049vncDOSulMgcQbgQ
-      - id: 36Wk72JZuX1CurZuJUKZG8
-        name: Wrath Of The Reaper
-        popularity: 21
-        uri: spotify:track:36Wk72JZuX1CurZuJUKZG8
-      - id: 2FjOgtYxg8fhqYBtCR5yxx
-        name: Waysted Love
-        popularity: 19
-        uri: spotify:track:2FjOgtYxg8fhqYBtCR5yxx
-      - id: 2aCnHezfBKaMjPD3qc5wqq
-        name: Never Coming Back
-        popularity: 19
-        uri: spotify:track:2aCnHezfBKaMjPD3qc5wqq
-      - id: 11RdoA1WkRSA9LUEX8ftzm
-        name: All Hell Let Loose
-        popularity: 18
-        uri: spotify:track:11RdoA1WkRSA9LUEX8ftzm
-      - id: 4ttr03BvlkM6zGd7xJg57W
-        name: The Show Must Go On
-        popularity: 17
-        uri: spotify:track:4ttr03BvlkM6zGd7xJg57W
-      uri: spotify:artist:3CSQtK60sg2jNNxnpThSN1
-      wgt_name: Reaper
     spotify:artist:3KPGTmc7LTodUo6mG4KvzQ:
       genres:
       - psychobilly
@@ -1277,6 +1228,54 @@ artists:
         uri: spotify:track:5X2Dge9RfWciWvPe9QbZFX
       uri: spotify:artist:4q2uhIfBHCNlwXYvQdnzvS
       wgt_name: Crematory
+    spotify:artist:5EEw5ABtKN2jJWKvoe7NYU:
+      genres: []
+      id: 5EEw5ABtKN2jJWKvoe7NYU
+      name: Reaper
+      popularity: 21
+      tracks:
+      - id: 54zeMvDsip517nte21X8oH
+        name: Urnensand
+        popularity: 9
+        uri: spotify:track:54zeMvDsip517nte21X8oH
+      - id: 4z0z1vgWlKzIBYJTlWtrzw
+        name: She Is a Devil and a Whore
+        popularity: 22
+        uri: spotify:track:4z0z1vgWlKzIBYJTlWtrzw
+      - id: 7JrbYX8aqDfWoVzhMv7bdP
+        name: Execution Of Your Mind
+        popularity: 3
+        uri: spotify:track:7JrbYX8aqDfWoVzhMv7bdP
+      - id: 7Lchd2ADK2eVrUquf2fKq8
+        name: The Devil Is Female
+        popularity: 6
+        uri: spotify:track:7Lchd2ADK2eVrUquf2fKq8
+      - id: 028p5s3jlJJZ01nsMhAjwh
+        name: Altum Silentium
+        popularity: 3
+        uri: spotify:track:028p5s3jlJJZ01nsMhAjwh
+      - id: 2HSMhXISC7BMvL4OgZo1Oc
+        name: Weltfremd
+        popularity: 4
+        uri: spotify:track:2HSMhXISC7BMvL4OgZo1Oc
+      - id: 0VySdQKMbrooRjFYkcwnTG
+        name: Robuste Maschine
+        popularity: 3
+        uri: spotify:track:0VySdQKMbrooRjFYkcwnTG
+      - id: 02fl0Jg6zCOTp78pPmnNaY
+        name: Das Grauen
+        popularity: 5
+        uri: spotify:track:02fl0Jg6zCOTp78pPmnNaY
+      - id: 49TCUxHVTRHDLJExY42ugr
+        name: X-Junkie - Grendel Remix
+        popularity: 2
+        uri: spotify:track:49TCUxHVTRHDLJExY42ugr
+      - id: 6wrmy9hnT0i37TCBe5NEQZ
+        name: Der Schnitter - Im Club
+        popularity: 11
+        uri: spotify:track:6wrmy9hnT0i37TCBe5NEQZ
+      uri: spotify:artist:5EEw5ABtKN2jJWKvoe7NYU
+      wgt_name: Reaper
     spotify:artist:5GXP40qqAgwCsG6mQ3NMWj:
       genres: []
       id: 5GXP40qqAgwCsG6mQ3NMWj
@@ -1614,6 +1613,54 @@ artists:
         uri: spotify:track:0ObJwmxM3x4ftwL9FfErXg
       uri: spotify:artist:5eTXnFPGx2tTzCEYwCNy5v
       wgt_name: Girls Under Glass
+    spotify:artist:69AckV37WNSvNBPla3fHX5:
+      genres: []
+      id: 69AckV37WNSvNBPla3fHX5
+      name: Bifrost
+      popularity: 27
+      tracks:
+      - id: 7a2ihpq0InLY3LjLEapDFl
+        name: Hej Maria (Luk Vinduet Op)
+        popularity: 29
+        uri: spotify:track:7a2ihpq0InLY3LjLEapDFl
+      - id: 3za6TJFUbrnScMEAVhZYBF
+        name: Det Er Morgen
+        popularity: 25
+        uri: spotify:track:3za6TJFUbrnScMEAVhZYBF
+      - id: 2BowAy3EtgJSE2pnBS8shw
+        name: Faldet
+        popularity: 20
+        uri: spotify:track:2BowAy3EtgJSE2pnBS8shw
+      - id: 6cSSgyOi0jnVtzn1KldBK7
+        name: Narredans
+        popularity: 18
+        uri: spotify:track:6cSSgyOi0jnVtzn1KldBK7
+      - id: 0Tb6iU2Iz5DPHaNXeT92cg
+        name: Mens Lyset Brænder Ud
+        popularity: 14
+        uri: spotify:track:0Tb6iU2Iz5DPHaNXeT92cg
+      - id: 0uyBWr0oBkXZU7518ni939
+        name: Hjerte Til Salg
+        popularity: 13
+        uri: spotify:track:0uyBWr0oBkXZU7518ni939
+      - id: 7f8V57PioUWOKvjs1O661Y
+        name: Rippet Og Flået
+        popularity: 11
+        uri: spotify:track:7f8V57PioUWOKvjs1O661Y
+      - id: 2rx4gZgt6kudI8XLdXYItg
+        name: Dog Eat Dog
+        popularity: 10
+        uri: spotify:track:2rx4gZgt6kudI8XLdXYItg
+      - id: 6k571Hljzi0juvvNKODu37
+        name: Mandag
+        popularity: 9
+        uri: spotify:track:6k571Hljzi0juvvNKODu37
+      - id: 7jzTKvA1taSI0xQ8CAmL5z
+        name: I nat vil jeg jeg leve
+        popularity: 8
+        uri: spotify:track:7jzTKvA1taSI0xQ8CAmL5z
+      uri: spotify:artist:69AckV37WNSvNBPla3fHX5
+      wgt_name: Bifröst
     spotify:artist:6G8XF6EGWVulzDSr55XM7s:
       genres: []
       id: 6G8XF6EGWVulzDSr55XM7s
@@ -2211,54 +2258,6 @@ artists:
         uri: spotify:track:4wq9b2MWi1XBHrdDhP2f80
       uri: spotify:artist:35GGGxiZ0AtRMf11IQ7A4t
       wgt_name: Tragic Black
-    spotify:artist:69AckV37WNSvNBPla3fHX5:
-      genres: []
-      id: 69AckV37WNSvNBPla3fHX5
-      name: Bifrost
-      popularity: 27
-      tracks:
-      - id: 7a2ihpq0InLY3LjLEapDFl
-        name: Hej Maria (Luk Vinduet Op)
-        popularity: 29
-        uri: spotify:track:7a2ihpq0InLY3LjLEapDFl
-      - id: 3za6TJFUbrnScMEAVhZYBF
-        name: Det Er Morgen
-        popularity: 25
-        uri: spotify:track:3za6TJFUbrnScMEAVhZYBF
-      - id: 2BowAy3EtgJSE2pnBS8shw
-        name: Faldet
-        popularity: 20
-        uri: spotify:track:2BowAy3EtgJSE2pnBS8shw
-      - id: 6cSSgyOi0jnVtzn1KldBK7
-        name: Narredans
-        popularity: 18
-        uri: spotify:track:6cSSgyOi0jnVtzn1KldBK7
-      - id: 0Tb6iU2Iz5DPHaNXeT92cg
-        name: Mens Lyset Brænder Ud
-        popularity: 14
-        uri: spotify:track:0Tb6iU2Iz5DPHaNXeT92cg
-      - id: 0uyBWr0oBkXZU7518ni939
-        name: Hjerte Til Salg
-        popularity: 13
-        uri: spotify:track:0uyBWr0oBkXZU7518ni939
-      - id: 7f8V57PioUWOKvjs1O661Y
-        name: Rippet Og Flået
-        popularity: 11
-        uri: spotify:track:7f8V57PioUWOKvjs1O661Y
-      - id: 2rx4gZgt6kudI8XLdXYItg
-        name: Dog Eat Dog
-        popularity: 10
-        uri: spotify:track:2rx4gZgt6kudI8XLdXYItg
-      - id: 6k571Hljzi0juvvNKODu37
-        name: Mandag
-        popularity: 9
-        uri: spotify:track:6k571Hljzi0juvvNKODu37
-      - id: 7jzTKvA1taSI0xQ8CAmL5z
-        name: I nat vil jeg jeg leve
-        popularity: 8
-        uri: spotify:track:7jzTKvA1taSI0xQ8CAmL5z
-      uri: spotify:artist:69AckV37WNSvNBPla3fHX5
-      wgt_name: Bifröst
     spotify:artist:295dvgS4Oy6dyjLiPBButt:
       genres: []
       id: 295dvgS4Oy6dyjLiPBButt
