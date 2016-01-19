@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	DBFilename = "./data.yaml"
+	DBFilename   = "./data.yaml"
 	PlaylistName = "WGT 2016"
 )
 
@@ -43,17 +43,62 @@ func main() {
 		log.Fatal(err.Error())
 	}
 
-	for _, artist := range db.Artists.Data {
-		var trackIDs []spotify.ID
-		for _, track := range artist.TopTracks {
-			trackIDs = append(trackIDs, spotify.ID(track.ID))
-		}
+	allTracks := make(map[spotify.ID]spotify.FullTrack)
+	limit := 100
+	offset := 0
 
-		log.Printf("Adding tracks for: %v", artist.Name)
-		_, err := client.AddTracksToPlaylist(user.ID, playlist.ID, trackIDs...)
+	var options spotify.Options
+	options.Limit = &limit
+	options.Offset = &offset
+
+	for {
+		tracksPage, err := client.GetPlaylistTracksOpt(user.ID, playlist.ID, &options, "")
 		if err != nil {
 			log.Fatal(err.Error())
 		}
+
+		log.Printf("Fetched playlist page of %v track(s)", len(tracksPage.Tracks))
+
+		for _, playlistTrack := range tracksPage.Tracks {
+			track := playlistTrack.Track
+			allTracks[track.ID] = track
+		}
+
+		// The Spotify API always returns full pages unless it has none left to
+		// return.
+		if len(tracksPage.Tracks) < 100 {
+			break
+		}
+
+		offset = offset + len(tracksPage.Tracks)
+	}
+
+	log.Printf("Current playlist has %v track(s)", len(allTracks))
+
+	// track IDs to add to the playlist
+	var trackIDs []spotify.ID
+
+	for _, artist := range db.Artists.Data {
+		for _, track := range artist.TopTracks {
+			if _, ok := allTracks[spotify.ID(track.ID)]; !ok {
+				trackIDs = append(trackIDs, spotify.ID(track.ID))
+			}
+		}
+	}
+
+	log.Printf("Need to add %v track(s) to playlist", len(trackIDs))
+
+	for i := 0; i < len(trackIDs); i += 100 {
+		bound := i + 100
+		if bound > len(trackIDs) {
+			bound = len(trackIDs)
+		}
+
+		_, err := client.AddTracksToPlaylist(user.ID, playlist.ID, trackIDs[i:bound]...)
+		if err != nil {
+			log.Fatal(err.Error())
+		}
+		log.Printf("Added page of %v track(s) to playlist", len(trackIDs[i:bound]))
 	}
 }
 
