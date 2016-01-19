@@ -23,6 +23,7 @@ var (
 	PlaylistName        = "WGT 2016"
 	PlaylistNameObscure = "WGT 2016 - Obscure"
 	PlaylistNamePopular = "WGT 2016 - Popular"
+	TracksPerArtist     = 5
 )
 
 type Conf struct {
@@ -58,7 +59,11 @@ func main() {
 
 	trackIDs = nil
 	for _, artist := range db.Artists.Data {
-		for _, track := range artist.TopTracks {
+		bound := TracksPerArtist
+		if bound > len(artist.TopTracks) {
+			bound = len(artist.TopTracks)
+		}
+		for _, track := range artist.TopTracks[0:bound] {
 			trackIDs = append(trackIDs, spotify.ID(track.ID))
 		}
 	}
@@ -79,7 +84,11 @@ func main() {
 			continue
 		}
 
-		for _, track := range artist.TopTracks {
+		bound := TracksPerArtist
+		if bound > len(artist.TopTracks) {
+			bound = len(artist.TopTracks)
+		}
+		for _, track := range artist.TopTracks[0:bound] {
 			trackIDs = append(trackIDs, spotify.ID(track.ID))
 		}
 	}
@@ -100,7 +109,11 @@ func main() {
 			continue
 		}
 
-		for _, track := range artist.TopTracks {
+		bound := TracksPerArtist
+		if bound > len(artist.TopTracks) {
+			bound = len(artist.TopTracks)
+		}
+		for _, track := range artist.TopTracks[0:bound] {
 			trackIDs = append(trackIDs, spotify.ID(track.ID))
 		}
 	}
