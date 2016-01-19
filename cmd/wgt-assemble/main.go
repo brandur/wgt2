@@ -21,6 +21,7 @@ import (
 var (
 	DBFilename          = "./data.yaml"
 	PlaylistName        = "WGT 2016"
+	PlaylistNameObscure = "WGT 2016 - Obscure"
 	PlaylistNamePopular = "WGT 2016 - Popular"
 )
 
@@ -51,6 +52,10 @@ func main() {
 
 	var trackIDs []spotify.ID
 
+	//
+	// Main playlist
+	//
+
 	trackIDs = nil
 	for _, artist := range db.Artists.Data {
 		for _, track := range artist.TopTracks {
@@ -62,6 +67,10 @@ func main() {
 	if err != nil {
 		log.Fatal(err.Error())
 	}
+
+	//
+	// Popular playlist
+	//
 
 	trackIDs = nil
 	for _, artist := range db.Artists.Data {
@@ -76,6 +85,27 @@ func main() {
 	}
 
 	err = updatePlaylist(client, user, PlaylistNamePopular, trackIDs)
+	if err != nil {
+		log.Fatal(err.Error())
+	}
+
+	//
+	// Obscure playlist
+	//
+
+	trackIDs = nil
+	for _, artist := range db.Artists.Data {
+		// an arbitrary threshold
+		if artist.Popularity >= 20 {
+			continue
+		}
+
+		for _, track := range artist.TopTracks {
+			trackIDs = append(trackIDs, spotify.ID(track.ID))
+		}
+	}
+
+	err = updatePlaylist(client, user, PlaylistNameObscure, trackIDs)
 	if err != nil {
 		log.Fatal(err.Error())
 	}
