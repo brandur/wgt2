@@ -1,0 +1,2365 @@
+artists:
+  by_wgt_name:
+    Amnistia: spotify:artist:295dvgS4Oy6dyjLiPBButt
+    Artwork: spotify:artist:5QxKfIfmzEobeWqEfe84ei
+    Bifröst: spotify:artist:69AckV37WNSvNBPla3fHX5
+    Biomekkanik: spotify:artist:6woDROgS1cDnpELgvpWYET
+    Blitzmaschine: spotify:artist:6QgTUcsgkYYymHqqvynfbV
+    Chainreactor: spotify:artist:7yZBEIIMTSW6yPYHYb9A5p
+    Christ Vs. Warhol: spotify:artist:2c1ubGcLgTEH45ASSQyRU9
+    Christine Plays Viola: spotify:artist:0wFpvCpfmScguj1EoJeoe6
+    Cinema Strange: spotify:artist:1rbA8kgsBFQLlwLfErsLIW
+    Coppelius: spotify:artist:6Jg19FkSE124yxi2J2wdP4
+    Crematory: spotify:artist:4q2uhIfBHCNlwXYvQdnzvS
+    Culture Kultür: spotify:artist:1wTjVvGxIxcZrHCansPELR
+    Darkher: spotify:artist:7MxxE2YEsVqLZhy4OpGkkz
+    Das Ich: spotify:artist:7LhCMNjTNM9R2a0fajH9l8
+    Destin Fragile: spotify:artist:0LoTca0hXCrgYsAn8X2Ojx
+    Deutsch Nepal: spotify:artist:7puY8Dgwz0k1KcukFEu2X4
+    Diary Of Dreams: spotify:artist:1tg5jMp8FFjVqjgoxuEbSR
+    Die Krupps: spotify:artist:0iDagYU2nu7gTWMdtCxzxW
+    Die Wilde Jagd: spotify:artist:6jLJRdVrrcyikxCiZimcqd
+    Gernotshagen: spotify:artist:7orbTOGaJlQeeabID10JF9
+    Girls Under Glass: spotify:artist:5eTXnFPGx2tTzCEYwCNy5v
+    Gothminister: spotify:artist:2S3xwpueZpPVUDTTv7Wefx
+    Grausame Töchter: spotify:artist:0ax2jaKxNf0AWnWaJnovy8
+    Hante.: spotify:artist:5PhSiNjHZevtfAj9zmvVkU
+    Har Belex: spotify:artist:0udoj1QKXgi4nv1Hi7ziZb
+    In The Nursery: spotify:artist:5GXP40qqAgwCsG6mQ3NMWj
+    Kauan: spotify:artist:2QgzO1Z5XYu9zj3nOYsXUa
+    Kuroshio: spotify:artist:4mThwsSbWivX0sqbYJ5LV0
+    Kyoll: spotify:artist:1hjp0NtpyzrFrEp10pKRB1
+    Lament: spotify:artist:01loZJplQY8BPxLA8yNW8O
+    Leather Strip: spotify:artist:0klcoRwPQF1GMv8FrA7F8V
+    Machinista: spotify:artist:6G8XF6EGWVulzDSr55XM7s
+    Mesh: spotify:artist:1uS4cYRRZRtauASIM9RxBG
+    Nekromantix: spotify:artist:3KPGTmc7LTodUo6mG4KvzQ
+    Neuroticfish: spotify:artist:1nAFTfHqP2WGCKJDKH5yqx
+    Nullvektor: spotify:artist:5ZFQP37t7siJu1oArvumyu
+    Peter Yates: spotify:artist:2bgbVGrSNMoTB9xNqZNJt1
+    Reaper: spotify:artist:3CSQtK60sg2jNNxnpThSN1
+    Siechtum: spotify:artist:7h1hgj6RuXemJWYK0wjl0i
+    Sigue Sigue Sputnik: spotify:artist:6GKVXdXGEOPzpilArcqBun
+    Suicide Commando: spotify:artist:4N99bzdRBNRi7hGNCpMuhu
+    Supersimmetria: spotify:artist:5RlRbDLz9Oo7r4TM9hSfCu
+    The Deadfly Ensemble: spotify:artist:3RqcvcGqQtD58NtJlXeTib
+    The Underground Youth: spotify:artist:2Hupv6e87TIsohgH4w4R8e
+    Tragic Black: spotify:artist:35GGGxiZ0AtRMf11IQ7A4t
+    Unzucht: spotify:artist:2hfInImCCmb7zXIuCE15IN
+    Winter Severity Index: spotify:artist:5RxKFWH5QHNCQkEhjYHkUC
+    XTR Human: spotify:artist:2rZkWg6RaoiuFmHrtrh0T4
+  data:
+    spotify:artist:0LoTca0hXCrgYsAn8X2Ojx:
+      genres: []
+      id: 0LoTca0hXCrgYsAn8X2Ojx
+      name: Destin Fragile
+      popularity: 8
+      tracks:
+      - id: 4Pk6tiefzcN9nCuBzFFfnD
+        name: Run Away
+        popularity: 13
+        uri: spotify:track:4Pk6tiefzcN9nCuBzFFfnD
+      - id: 6mmgI2Dqc5FL3mjLESilJJ
+        name: April Light
+        popularity: 8
+        uri: spotify:track:6mmgI2Dqc5FL3mjLESilJJ
+      - id: 2NyrmwH3a2GRU6z2u8LF1n
+        name: Change
+        popularity: 7
+        uri: spotify:track:2NyrmwH3a2GRU6z2u8LF1n
+      - id: 2oOClHKowwAhX2sTX3Zdc2
+        name: In Your Eyes
+        popularity: 7
+        uri: spotify:track:2oOClHKowwAhX2sTX3Zdc2
+      - id: 7HPMGWg9GEyAsd4CXU5sit
+        name: In the Frame
+        popularity: 7
+        uri: spotify:track:7HPMGWg9GEyAsd4CXU5sit
+      - id: 0mz7TLrgxuxIO5nZRgeQEg
+        name: Alive (It's up to You)
+        popularity: 6
+        uri: spotify:track:0mz7TLrgxuxIO5nZRgeQEg
+      - id: 1ItmaIFsv9natgsQKtSRv7
+        name: In Plain Sight
+        popularity: 6
+        uri: spotify:track:1ItmaIFsv9natgsQKtSRv7
+      - id: 3QYm3A7u8NhkPkIhaFDVHl
+        name: Halfway to Nowhere
+        popularity: 5
+        uri: spotify:track:3QYm3A7u8NhkPkIhaFDVHl
+      - id: 11xTzc74SjNQYiOuj0ckIG
+        name: Out of the Darkness
+        popularity: 5
+        uri: spotify:track:11xTzc74SjNQYiOuj0ckIG
+      - id: 0Y1UrDN1qNyGCoHhUZ6SoP
+        name: Worlds Apart
+        popularity: 5
+        uri: spotify:track:0Y1UrDN1qNyGCoHhUZ6SoP
+      uri: spotify:artist:0LoTca0hXCrgYsAn8X2Ojx
+      wgt_name: Destin Fragile
+    spotify:artist:0ax2jaKxNf0AWnWaJnovy8:
+      genres: []
+      id: 0ax2jaKxNf0AWnWaJnovy8
+      name: Grausame Töchter
+      popularity: 20
+      tracks:
+      - id: 3ycHC5hBgHNUra8rF3ltvc
+        name: Glaube Liebe Hoffnung
+        popularity: 18
+        uri: spotify:track:3ycHC5hBgHNUra8rF3ltvc
+      - id: 04plcl02qLrHolOiEGehKF
+        name: Ich darf das!
+        popularity: 16
+        uri: spotify:track:04plcl02qLrHolOiEGehKF
+      - id: 6qHZ1zKU2B1LDLLpKl8ilh
+        name: Lust und Tod
+        popularity: 16
+        uri: spotify:track:6qHZ1zKU2B1LDLLpKl8ilh
+      - id: 6zagGwfPFy9rFyCvI8h5tn
+        name: Mensch und Tier
+        popularity: 15
+        uri: spotify:track:6zagGwfPFy9rFyCvI8h5tn
+      - id: 1lxC9DJxSiWzUumaMyHaW1
+        name: Untergang
+        popularity: 14
+        uri: spotify:track:1lxC9DJxSiWzUumaMyHaW1
+      - id: 6pEP11ehcuKsPgsQBRFWry
+        name: Freundin
+        popularity: 13
+        uri: spotify:track:6pEP11ehcuKsPgsQBRFWry
+      - id: 7Gg4iN1QPQTOjpR6gSG604
+        name: Ficken ist ein schlimmes Wort
+        popularity: 12
+        uri: spotify:track:7Gg4iN1QPQTOjpR6gSG604
+      - id: 5k2uf15iy4lpdPI73NC337
+        name: Blut geleckt (Schizophreniac Remix)
+        popularity: 12
+        uri: spotify:track:5k2uf15iy4lpdPI73NC337
+      - id: 7IHMNb81FP8xsX78T2B1Zr
+        name: Tanz für dich
+        popularity: 12
+        uri: spotify:track:7IHMNb81FP8xsX78T2B1Zr
+      - id: 2v8NGBX6fQCxVBWIxkUXp2
+        name: Bis Das Blut Fliesst
+        popularity: 11
+        uri: spotify:track:2v8NGBX6fQCxVBWIxkUXp2
+      uri: spotify:artist:0ax2jaKxNf0AWnWaJnovy8
+      wgt_name: Grausame Töchter
+    spotify:artist:0iDagYU2nu7gTWMdtCxzxW:
+      genres:
+      - ebm
+      - electro-industrial
+      - industrial rock
+      id: 0iDagYU2nu7gTWMdtCxzxW
+      name: Die Krupps
+      popularity: 33
+      tracks:
+      - id: 5H8EzvO3WV2jtoYrowmwVd
+        name: To The Hilt
+        popularity: 34
+        uri: spotify:track:5H8EzvO3WV2jtoYrowmwVd
+      - id: 2mUDB7b1pMJFdLX12LETQo
+        name: Nazis auf Speed
+        popularity: 20
+        uri: spotify:track:2mUDB7b1pMJFdLX12LETQo
+      - id: 7Fb91RaxUUX9Bncs4LAXAa
+        name: The Machineries Of Joy
+        popularity: 18
+        uri: spotify:track:7Fb91RaxUUX9Bncs4LAXAa
+      - id: 2WWeDG0ZmS2hJSNfm1zICd
+        name: Schmutzfabrik
+        popularity: 18
+        uri: spotify:track:2WWeDG0ZmS2hJSNfm1zICd
+      - id: 5dVu6jFEBWZ124622Wi7cs
+        name: Robo Sapien
+        popularity: 17
+        uri: spotify:track:5dVu6jFEBWZ124622Wi7cs
+      - id: 2pvI6g5dnrm76JhKjPNGrI
+        name: Ein Blick zurueck im Zorn
+        popularity: 17
+        uri: spotify:track:2pvI6g5dnrm76JhKjPNGrI
+      - id: 4YRgR0axwA6vDBGDHAhfaa
+        name: 5 Millionen
+        popularity: 17
+        uri: spotify:track:4YRgR0axwA6vDBGDHAhfaa
+      - id: 6U3GplQBYvNgphgB2uXfPZ
+        name: Hi Tech Low Life
+        popularity: 15
+        uri: spotify:track:6U3GplQBYvNgphgB2uXfPZ
+      - id: 0cj71b2M81H1cRbyFmtFVP
+        name: Der Amboss
+        popularity: 15
+        uri: spotify:track:0cj71b2M81H1cRbyFmtFVP
+      - id: 124jv5Ww4fLRDhSCMWeV43
+        name: Fatherland
+        popularity: 15
+        uri: spotify:track:124jv5Ww4fLRDhSCMWeV43
+      uri: spotify:artist:0iDagYU2nu7gTWMdtCxzxW
+      wgt_name: Die Krupps
+    spotify:artist:0klcoRwPQF1GMv8FrA7F8V:
+      genres:
+      - ebm
+      - electro-industrial
+      id: 0klcoRwPQF1GMv8FrA7F8V
+      name: Leæther Strip
+      popularity: 23
+      tracks:
+      - id: 7HRgKfBYeRWMZuatJluFEo
+        name: Evil Speaks
+        popularity: 18
+        uri: spotify:track:7HRgKfBYeRWMZuatJluFEo
+      - id: 28EOZWgaFmmAJIiHuuIHYs
+        name: Living On Video
+        popularity: 17
+        uri: spotify:track:28EOZWgaFmmAJIiHuuIHYs
+      - id: 7IUpeZxfnbmHRRBXFWzPki
+        name: Forgotten Tears - Leaether Strip Remix
+        popularity: 15
+        uri: spotify:track:7IUpeZxfnbmHRRBXFWzPki
+      - id: 26hKJVGPyowqoW6AU1Nt4v
+        name: Strap Me Down
+        popularity: 14
+        uri: spotify:track:26hKJVGPyowqoW6AU1Nt4v
+      - id: 4YDpoYX441dTUjBLVFeauN
+        name: Strap Me Down - Body Machine Mix
+        popularity: 12
+        uri: spotify:track:4YDpoYX441dTUjBLVFeauN
+      - id: 4KNpmn3dIgiMP8hiVdBt2z
+        name: Fit for Flogging
+        popularity: 11
+        uri: spotify:track:4KNpmn3dIgiMP8hiVdBt2z
+      - id: 0dFASfwnD8qCTChVAtr8nJ
+        name: Der heizer (feat. Rummelsnuff)
+        popularity: 4
+        uri: spotify:track:0dFASfwnD8qCTChVAtr8nJ
+      - id: 4Kz7IOGrskcu4IU43AUJwY
+        name: Turn to Stone
+        popularity: 6
+        uri: spotify:track:4Kz7IOGrskcu4IU43AUJwY
+      - id: 0eXYbA3G814uSmxGdLJXUt
+        name: Japanese bodies (12" Version)
+        popularity: 10
+        uri: spotify:track:0eXYbA3G814uSmxGdLJXUt
+      - id: 4ygOaTQMcBRgyW6uijM28z
+        name: Adrenaline Rush (Veggaer Version)
+        popularity: 10
+        uri: spotify:track:4ygOaTQMcBRgyW6uijM28z
+      uri: spotify:artist:0klcoRwPQF1GMv8FrA7F8V
+      wgt_name: Leather Strip
+    spotify:artist:0udoj1QKXgi4nv1Hi7ziZb:
+      genres: []
+      id: 0udoj1QKXgi4nv1Hi7ziZb
+      name: Har Belex
+      popularity: 12
+      tracks:
+      - id: 5oGIZt3WIZC3vJq8t3wkf5
+        name: Pathways
+        popularity: 21
+        uri: spotify:track:5oGIZt3WIZC3vJq8t3wkf5
+      - id: 1j23HEGCHf8yqqf0VRW8Vd
+        name: Annual
+        popularity: 17
+        uri: spotify:track:1j23HEGCHf8yqqf0VRW8Vd
+      - id: 2LWwqz2x59SLnKwcQAmryp
+        name: A Ray of Moon
+        popularity: 7
+        uri: spotify:track:2LWwqz2x59SLnKwcQAmryp
+      - id: 1bsNyhxKpHa1aqnuQeu55E
+        name: Der Akerbeltz
+        popularity: 6
+        uri: spotify:track:1bsNyhxKpHa1aqnuQeu55E
+      - id: 1d67sZlk3CnSzlj859l1qg
+        name: Madmen in Wasteland
+        popularity: 6
+        uri: spotify:track:1d67sZlk3CnSzlj859l1qg
+      - id: 4qUowxkEh37rqlVE7DP8K5
+        name: Springtime
+        popularity: 6
+        uri: spotify:track:4qUowxkEh37rqlVE7DP8K5
+      - id: 3g3KLanCAbtP2GyQ5jRIy7
+        name: Six A.M.
+        popularity: 6
+        uri: spotify:track:3g3KLanCAbtP2GyQ5jRIy7
+      - id: 38L40grCBDllosMcUXb1b4
+        name: Basoan
+        popularity: 5
+        uri: spotify:track:38L40grCBDllosMcUXb1b4
+      - id: 0qy7okB2e5poh6I0hKd1xy
+        name: Freedom
+        popularity: 5
+        uri: spotify:track:0qy7okB2e5poh6I0hKd1xy
+      - id: 2ZYHhLDor4b1cxQIYekCGf
+        name: Edificios Anónimos
+        popularity: 5
+        uri: spotify:track:2ZYHhLDor4b1cxQIYekCGf
+      uri: spotify:artist:0udoj1QKXgi4nv1Hi7ziZb
+      wgt_name: Har Belex
+    spotify:artist:0wFpvCpfmScguj1EoJeoe6:
+      genres: []
+      id: 0wFpvCpfmScguj1EoJeoe6
+      name: Christine Plays Viola
+      popularity: 7
+      tracks:
+      - id: 2DW3SerCjqUSFSpe6nwbNz
+        name: Permutations
+        popularity: 10
+        uri: spotify:track:2DW3SerCjqUSFSpe6nwbNz
+      - id: 0R2CQAZHClPTgEeFe1Fuxi
+        name: Slaughter of the Black Sun
+        popularity: 8
+        uri: spotify:track:0R2CQAZHClPTgEeFe1Fuxi
+      - id: 0mVtOpkpKAmp7J0OhtiJ07
+        name: Wrapped in Spiral
+        popularity: 6
+        uri: spotify:track:0mVtOpkpKAmp7J0OhtiJ07
+      - id: 3yuOj74lCLllkETk3dy5fM
+        name: Near the Entrance to the Underworld
+        popularity: 4
+        uri: spotify:track:3yuOj74lCLllkETk3dy5fM
+      - id: 3u9Duw2ogbXXunjasV05gQ
+        name: Awakening of the Damned
+        popularity: 4
+        uri: spotify:track:3u9Duw2ogbXXunjasV05gQ
+      - id: 3FwhovtlCk2JJDFYKmmDmc
+        name: Threatening Clouds of Surrender
+        popularity: 4
+        uri: spotify:track:3FwhovtlCk2JJDFYKmmDmc
+      - id: 7JwlEqQpc56aLyGZJ0EKe1
+        name: The Stars Can't Frighten, Pt. II - Landing at the River of Despair
+        popularity: 3
+        uri: spotify:track:7JwlEqQpc56aLyGZJ0EKe1
+      - id: 5yvjFlNxsDimv9LeMK1NMD
+        name: The Stars Can't Frighten, Pt. I - Screenshots from Empyrean
+        popularity: 3
+        uri: spotify:track:5yvjFlNxsDimv9LeMK1NMD
+      - id: 4hYjT4mH3xvftRWnX5EyYR
+        name: In Silence Withdrawn
+        popularity: 3
+        uri: spotify:track:4hYjT4mH3xvftRWnX5EyYR
+      - id: 2du7OlbqwybJ6H99tvpLnv
+        name: Rejecting the Limitations of Fate
+        popularity: 3
+        uri: spotify:track:2du7OlbqwybJ6H99tvpLnv
+      uri: spotify:artist:0wFpvCpfmScguj1EoJeoe6
+      wgt_name: Christine Plays Viola
+    spotify:artist:1hjp0NtpyzrFrEp10pKRB1:
+      genres: []
+      id: 1hjp0NtpyzrFrEp10pKRB1
+      name: Kyoll
+      popularity: 4
+      tracks:
+      - id: 6L3OXUcn0NEr8QVwRfZrsl
+        name: Bunkerparty
+        popularity: 5
+        uri: spotify:track:6L3OXUcn0NEr8QVwRfZrsl
+      - id: 6NEVmdytHtCxVwtiG3ruzv
+        name: Wismut
+        popularity: 4
+        uri: spotify:track:6NEVmdytHtCxVwtiG3ruzv
+      - id: 4sajaU8RqfqLKJtna0syKk
+        name: Kopfschuss
+        popularity: 3
+        uri: spotify:track:4sajaU8RqfqLKJtna0syKk
+      - id: 5MLgKAU3N3cdmNsuTWEeye
+        name: Radio Aktiv
+        popularity: 3
+        uri: spotify:track:5MLgKAU3N3cdmNsuTWEeye
+      - id: 15jcGWSqdeR0yJBVi2Qqh5
+        name: Tonspur 7
+        popularity: 3
+        uri: spotify:track:15jcGWSqdeR0yJBVi2Qqh5
+      - id: 0rn5r1zJXZUkUHmk9ab2F9
+        name: Stauschau
+        popularity: 2
+        uri: spotify:track:0rn5r1zJXZUkUHmk9ab2F9
+      - id: 1F3JLZh21vGVQr0g2pafXu
+        name: Revolution
+        popularity: 2
+        uri: spotify:track:1F3JLZh21vGVQr0g2pafXu
+      - id: 4u6HGnMwOmNoSGJl6J1a96
+        name: Wetter
+        popularity: 2
+        uri: spotify:track:4u6HGnMwOmNoSGJl6J1a96
+      - id: 0Et6y9HQmxyy2ZqUDJqGk8
+        name: Ruinen
+        popularity: 2
+        uri: spotify:track:0Et6y9HQmxyy2ZqUDJqGk8
+      - id: 7jsAnAM5z6GsLHbFjO1FrU
+        name: Bunkerparty
+        popularity: 1
+        uri: spotify:track:7jsAnAM5z6GsLHbFjO1FrU
+      uri: spotify:artist:1hjp0NtpyzrFrEp10pKRB1
+      wgt_name: Kyoll
+    spotify:artist:1nAFTfHqP2WGCKJDKH5yqx:
+      genres:
+      - futurepop
+      id: 1nAFTfHqP2WGCKJDKH5yqx
+      name: Neuroticfish
+      popularity: 14
+      tracks:
+      - id: 3wiHjXay1yEzcYbPt5av7y
+        name: Skin
+        popularity: 17
+        uri: spotify:track:3wiHjXay1yEzcYbPt5av7y
+      - id: 0nzhpmUIR8xWJ1IMJk85CW
+        name: Close
+        popularity: 16
+        uri: spotify:track:0nzhpmUIR8xWJ1IMJk85CW
+      - id: 2TnukuvGFGbnhbblshSsBS
+        name: Black Again
+        popularity: 14
+        uri: spotify:track:2TnukuvGFGbnhbblshSsBS
+      - id: 1ryrLyLBVmruIxDVVCumNq
+        name: M.F.A.P.L.
+        popularity: 14
+        uri: spotify:track:1ryrLyLBVmruIxDVVCumNq
+      - id: 0kD0xeshr7ZyP5vYpiyCyJ
+        name: Mechanic Of The Sequence
+        popularity: 13
+        uri: spotify:track:0kD0xeshr7ZyP5vYpiyCyJ
+      - id: 6xVenrQ5eLIoHx4aXemT3J
+        name: M.F.A.P.L. (Intelligent Tribal Freak Mix)
+        popularity: 12
+        uri: spotify:track:6xVenrQ5eLIoHx4aXemT3J
+      - id: 4JwOu0znkNd17gxyDSc03R
+        name: Pain
+        popularity: 10
+        uri: spotify:track:4JwOu0znkNd17gxyDSc03R
+      - id: 5hE4D8J2DAYiCJKUkInjBH
+        name: Breaking The Cliche
+        popularity: 10
+        uri: spotify:track:5hE4D8J2DAYiCJKUkInjBH
+      - id: 2NVJvzBpYuzk0lWizJZ7ja
+        name: Unexpected
+        popularity: 9
+        uri: spotify:track:2NVJvzBpYuzk0lWizJZ7ja
+      - id: 0jUixeGpuTAzb1O1fOfeLh
+        name: Inside
+        popularity: 9
+        uri: spotify:track:0jUixeGpuTAzb1O1fOfeLh
+      uri: spotify:artist:1nAFTfHqP2WGCKJDKH5yqx
+      wgt_name: Neuroticfish
+    spotify:artist:1rbA8kgsBFQLlwLfErsLIW:
+      genres: []
+      id: 1rbA8kgsBFQLlwLfErsLIW
+      name: Cinema Strange
+      popularity: 4
+      tracks:
+      - id: 2WtBJKbOGEFcWvmNX3Zueu
+        name: Time
+        popularity: 14
+        uri: spotify:track:2WtBJKbOGEFcWvmNX3Zueu
+      uri: spotify:artist:1rbA8kgsBFQLlwLfErsLIW
+      wgt_name: Cinema Strange
+    spotify:artist:1tg5jMp8FFjVqjgoxuEbSR:
+      genres:
+      - dark wave
+      id: 1tg5jMp8FFjVqjgoxuEbSR
+      name: Diary Of Dreams
+      popularity: 36
+      tracks:
+      - id: 7nmEQmD5IEtVC2srvNEc32
+        name: She and Her Darkness
+        popularity: 32
+        uri: spotify:track:7nmEQmD5IEtVC2srvNEc32
+      - id: 7g5Xigl0sO5gmqnwQdgCiu
+        name: Sinferno
+        popularity: 30
+        uri: spotify:track:7g5Xigl0sO5gmqnwQdgCiu
+      - id: 1K9vr1VEQAq7QGg3ubVqPf
+        name: Endless Nights
+        popularity: 29
+        uri: spotify:track:1K9vr1VEQAq7QGg3ubVqPf
+      - id: 3jQ0ct9ZkK3xoemMNEaSPg
+        name: Ikarus
+        popularity: 28
+        uri: spotify:track:3jQ0ct9ZkK3xoemMNEaSPg
+      - id: 5Cg2Pz0xxCM9kvulNxX2iB
+        name: Grau im Licht
+        popularity: 27
+        uri: spotify:track:5Cg2Pz0xxCM9kvulNxX2iB
+      - id: 43xZwvsoBgc2c7IAei1rOl
+        name: Traumtänzer
+        popularity: 26
+        uri: spotify:track:43xZwvsoBgc2c7IAei1rOl
+      - id: 2EFrd3RojDei5dMrI3NE6Y
+        name: Krank
+        popularity: 26
+        uri: spotify:track:2EFrd3RojDei5dMrI3NE6Y
+      - id: 1Wptmh9IID6v92ZGLrxDY0
+        name: Die My Phobia
+        popularity: 25
+        uri: spotify:track:1Wptmh9IID6v92ZGLrxDY0
+      - id: 3Ih2OpbGSeCNNl8VMdXb80
+        name: HomeSick
+        popularity: 25
+        uri: spotify:track:3Ih2OpbGSeCNNl8VMdXb80
+      - id: 2c8irDSQNqQkzMPZINkQGZ
+        name: The Luxury of Insanity
+        popularity: 24
+        uri: spotify:track:2c8irDSQNqQkzMPZINkQGZ
+      uri: spotify:artist:1tg5jMp8FFjVqjgoxuEbSR
+      wgt_name: Diary Of Dreams
+    spotify:artist:1uS4cYRRZRtauASIM9RxBG:
+      genres: []
+      id: 1uS4cYRRZRtauASIM9RxBG
+      name: Mesh
+      popularity: 30
+      tracks:
+      - id: 3negaQrIXbtGLBA7yPxdRy
+        name: Crash
+        popularity: 24
+        uri: spotify:track:3negaQrIXbtGLBA7yPxdRy
+      - id: 41sDZmmlnCyV02OvT0XpRO
+        name: Little Missile
+        popularity: 18
+        uri: spotify:track:41sDZmmlnCyV02OvT0XpRO
+      - id: 4yf1A8KvyLaMWegHmqyj55
+        name: Seize The Day - Radio Edit
+        popularity: 18
+        uri: spotify:track:4yf1A8KvyLaMWegHmqyj55
+      - id: 0jFTeQPyLumzwGQb2xSDWx
+        name: Open Up The Ground
+        popularity: 15
+        uri: spotify:track:0jFTeQPyLumzwGQb2xSDWx
+      - id: 7nOFhjGfcpdQXEgGqX27PC
+        name: Purple Haze - Radio Edit
+        popularity: 14
+        uri: spotify:track:7nOFhjGfcpdQXEgGqX27PC
+      - id: 2fnAeqT6Tr2jlUi3AGjRNH
+        name: Step By Step
+        popularity: 14
+        uri: spotify:track:2fnAeqT6Tr2jlUi3AGjRNH
+      - id: 4LNvkADrSSR8Op8G7wnWh9
+        name: No Place Like Home
+        popularity: 12
+        uri: spotify:track:4LNvkADrSSR8Op8G7wnWh9
+      - id: 3D5iuKGTxBirme2tAtzo4x
+        name: Can You Mend Hearts
+        popularity: 12
+        uri: spotify:track:3D5iuKGTxBirme2tAtzo4x
+      - id: 7m63BylKgrLT5gfCzEbbdx
+        name: Trust You - Single Version
+        popularity: 12
+        uri: spotify:track:7m63BylKgrLT5gfCzEbbdx
+      - id: 0n600xAYOAMEnrt84R7a7Y
+        name: My Hands Are Tied
+        popularity: 12
+        uri: spotify:track:0n600xAYOAMEnrt84R7a7Y
+      uri: spotify:artist:1uS4cYRRZRtauASIM9RxBG
+      wgt_name: Mesh
+    spotify:artist:1wTjVvGxIxcZrHCansPELR:
+      genres:
+      - futurepop
+      id: 1wTjVvGxIxcZrHCansPELR
+      name: Culture Kultur
+      popularity: 20
+      tracks:
+      - id: 3vHZe0Vcv5pQNE2cf4VRtQ
+        name: The Only One
+        popularity: 20
+        uri: spotify:track:3vHZe0Vcv5pQNE2cf4VRtQ
+      - id: 4c0S7YLtcAOKkPiLqo3Cez
+        name: Love Will Tear Us Apart
+        popularity: 19
+        uri: spotify:track:4c0S7YLtcAOKkPiLqo3Cez
+      - id: 18XdzJ8TrIsxiiFIWV8eVX
+        name: Sieged
+        popularity: 18
+        uri: spotify:track:18XdzJ8TrIsxiiFIWV8eVX
+      - id: 2ORlVV4mABuAB0pChOkph3
+        name: Toxic Pulse
+        popularity: 16
+        uri: spotify:track:2ORlVV4mABuAB0pChOkph3
+      - id: 3XqKG7rNKxQWmtRiQsOcsI
+        name: I Found You
+        popularity: 15
+        uri: spotify:track:3XqKG7rNKxQWmtRiQsOcsI
+      - id: 3g7kbZtHmZ5qmf7dLS9iwh
+        name: Promised Land Blues
+        popularity: 14
+        uri: spotify:track:3g7kbZtHmZ5qmf7dLS9iwh
+      - id: 5lqAVTi21SmnaQQEYPzLEs
+        name: Wonder
+        popularity: 14
+        uri: spotify:track:5lqAVTi21SmnaQQEYPzLEs
+      - id: 2V1BG1ObGd6gOKDfiKWuxm
+        name: Drum Machine
+        popularity: 13
+        uri: spotify:track:2V1BG1ObGd6gOKDfiKWuxm
+      - id: 7eHsGoYIklWiuciRas01kl
+        name: Unforgiven
+        popularity: 13
+        uri: spotify:track:7eHsGoYIklWiuciRas01kl
+      - id: 35wELupyFCtKshLgLyHkZo
+        name: Fading Away
+        popularity: 12
+        uri: spotify:track:35wELupyFCtKshLgLyHkZo
+      uri: spotify:artist:1wTjVvGxIxcZrHCansPELR
+      wgt_name: Culture Kultür
+    spotify:artist:01loZJplQY8BPxLA8yNW8O:
+      genres: []
+      id: 01loZJplQY8BPxLA8yNW8O
+      name: Lament
+      popularity: 2
+      tracks:
+      - id: 7Aqc0cM16thYSlkaex7Uzw
+        name: Seven Brides For Seven Brothers - lonesome polecat
+        popularity: 7
+        uri: spotify:track:7Aqc0cM16thYSlkaex7Uzw
+      - id: 2rU58g4IswZQVYwQZqPlFQ
+        name: Last Dance of Summer
+        popularity: 1
+        uri: spotify:track:2rU58g4IswZQVYwQZqPlFQ
+      - id: 7hqcf3I3iPRRsLVxl9dyQr
+        name: Through The Reflection
+        popularity: 1
+        uri: spotify:track:7hqcf3I3iPRRsLVxl9dyQr
+      - id: 21Kkdmwf51xhOcBrhBGmQp
+        name: Come Near
+        popularity: 1
+        uri: spotify:track:21Kkdmwf51xhOcBrhBGmQp
+      - id: 6bHtkdc26NEGRUdIDnsHtx
+        name: 1250 Dead Without Reason
+        popularity: 0
+        uri: spotify:track:6bHtkdc26NEGRUdIDnsHtx
+      - id: 2pXNBO9O8I4I8nKCuDo0DH
+        name: A Cry Near The Forest
+        popularity: 0
+        uri: spotify:track:2pXNBO9O8I4I8nKCuDo0DH
+      - id: 1zbi04pu0TdWW01xHeigJJ
+        name: Roots Of Wind
+        popularity: 0
+        uri: spotify:track:1zbi04pu0TdWW01xHeigJJ
+      - id: 0L2gFoOh6F55Q0uyHSeWNf
+        name: The Wind Of My Heart
+        popularity: 0
+        uri: spotify:track:0L2gFoOh6F55Q0uyHSeWNf
+      - id: 7kfUuRN28zcEHJsm0JtRy9
+        name: A Dream At Sunset
+        popularity: 0
+        uri: spotify:track:7kfUuRN28zcEHJsm0JtRy9
+      - id: 3t9mq6LZ8YqyClt6zWUbdp
+        name: Tears…Instrument For Reflection
+        popularity: 0
+        uri: spotify:track:3t9mq6LZ8YqyClt6zWUbdp
+      uri: spotify:artist:01loZJplQY8BPxLA8yNW8O
+      wgt_name: Lament
+    spotify:artist:2Hupv6e87TIsohgH4w4R8e:
+      genres:
+      - psych gaze
+      id: 2Hupv6e87TIsohgH4w4R8e
+      name: The Underground Youth
+      popularity: 28
+      tracks:
+      - id: 1v8xVRXG30VV75TmwUTHWh
+        name: Morning Sun
+        popularity: 30
+        uri: spotify:track:1v8xVRXG30VV75TmwUTHWh
+      - id: 2WfCzieYRtW2zaiHXw1APr
+        name: Tokyo Blue
+        popularity: 27
+        uri: spotify:track:2WfCzieYRtW2zaiHXw1APr
+      - id: 48WWoN5Oc0NIHCyNkFakHM
+        name: Juliette
+        popularity: 26
+        uri: spotify:track:48WWoN5Oc0NIHCyNkFakHM
+      - id: 7C1VtK6EmIOkTdMkSGZQzb
+        name: Collapsing Into Night
+        popularity: 24
+        uri: spotify:track:7C1VtK6EmIOkTdMkSGZQzb
+      - id: 36jRmDnI36Z6OFNYBgphRV
+        name: Rodion
+        popularity: 24
+        uri: spotify:track:36jRmDnI36Z6OFNYBgphRV
+      - id: 49flflNYsRyuOMzJtnEOpZ
+        name: Art House Revisited
+        popularity: 23
+        uri: spotify:track:49flflNYsRyuOMzJtnEOpZ
+      - id: 6SFF4CbQqEbEsqevOzxUp9
+        name: Haunted
+        popularity: 22
+        uri: spotify:track:6SFF4CbQqEbEsqevOzxUp9
+      - id: 10HbGwwZhErgrucg7BhP7q
+        name: On the Floor
+        popularity: 21
+        uri: spotify:track:10HbGwwZhErgrucg7BhP7q
+      - id: 41kSUm8pV7IUlxDzWMQjGF
+        name: In the Dark I See
+        popularity: 21
+        uri: spotify:track:41kSUm8pV7IUlxDzWMQjGF
+      - id: 3SV3gzNThoW9AqHo59ZJD3
+        name: Heart On a Chain
+        popularity: 20
+        uri: spotify:track:3SV3gzNThoW9AqHo59ZJD3
+      uri: spotify:artist:2Hupv6e87TIsohgH4w4R8e
+      wgt_name: The Underground Youth
+    spotify:artist:2QgzO1Z5XYu9zj3nOYsXUa:
+      genres: []
+      id: 2QgzO1Z5XYu9zj3nOYsXUa
+      name: Kauan
+      popularity: 30
+      tracks:
+      - id: 0NpgahE2y2GulJJr72iep4
+        name: Kit
+        popularity: 34
+        uri: spotify:track:0NpgahE2y2GulJJr72iep4
+      - id: 7uH4WjVresfWWAzawjoSGt
+        name: Akva
+        popularity: 33
+        uri: spotify:track:7uH4WjVresfWWAzawjoSGt
+      - id: 145wXru7fc8N8v4yzZ3LEw
+        name: Khurum
+        popularity: 29
+        uri: spotify:track:145wXru7fc8N8v4yzZ3LEw
+      - id: 2NAv8zfiYJZ5UMctppOFOn
+        name: At
+        popularity: 29
+        uri: spotify:track:2NAv8zfiYJZ5UMctppOFOn
+      - id: 1iXA2OO5grSYnkAhMnra49
+        name: Nila
+        popularity: 28
+        uri: spotify:track:1iXA2OO5grSYnkAhMnra49
+      - id: 6A2DckFfs314LyEoehe1pW
+        name: Khot
+        popularity: 27
+        uri: spotify:track:6A2DckFfs314LyEoehe1pW
+      - id: 7ENc0V9TTjmRfpY61TNOEw
+        name: Sat
+        popularity: 26
+        uri: spotify:track:7ENc0V9TTjmRfpY61TNOEw
+      - id: 1owGyZydXnYU4A54ZTOdPq
+        name: Unsoi
+        popularity: 20
+        uri: spotify:track:1owGyZydXnYU4A54ZTOdPq
+      - id: 3DpbiEMFG0zefNbeJI7gMk
+        name: Aamu Ja Kaste
+        popularity: 18
+        uri: spotify:track:3DpbiEMFG0zefNbeJI7gMk
+      - id: 78ISX7ubPE2McZF6Gh8Dny
+        name: I
+        popularity: 17
+        uri: spotify:track:78ISX7ubPE2McZF6Gh8Dny
+      uri: spotify:artist:2QgzO1Z5XYu9zj3nOYsXUa
+      wgt_name: Kauan
+    spotify:artist:2S3xwpueZpPVUDTTv7Wefx:
+      genres:
+      - neue deutsche harte
+      id: 2S3xwpueZpPVUDTTv7Wefx
+      name: Gothminister
+      popularity: 32
+      tracks:
+      - id: 56pKXKENFu0hqf2RsVXY4D
+        name: Darkside
+        popularity: 39
+        uri: spotify:track:56pKXKENFu0hqf2RsVXY4D
+      - id: 5SSgOEhCl3C20ioDkt96fr
+        name: Liar
+        popularity: 28
+        uri: spotify:track:5SSgOEhCl3C20ioDkt96fr
+      - id: 5S5Z9VYSKwr9myAHv7h7aJ
+        name: Monsters
+        popularity: 27
+        uri: spotify:track:5S5Z9VYSKwr9myAHv7h7aJ
+      - id: 5C9gZUoo6Fr5QKLHwPcFs5
+        name: Dusk Till Dawn - 1
+        popularity: 26
+        uri: spotify:track:5C9gZUoo6Fr5QKLHwPcFs5
+      - id: 3qpn8lHmYlWdxBQf2E4Lvc
+        name: Freak
+        popularity: 25
+        uri: spotify:track:3qpn8lHmYlWdxBQf2E4Lvc
+      - id: 7rzeTOPy6coC4FZPHirdSD
+        name: Your Saviour
+        popularity: 23
+        uri: spotify:track:7rzeTOPy6coC4FZPHirdSD
+      - id: 21ZRkuRePLYRdDxgEb2g1V
+        name: Angel
+        popularity: 22
+        uri: spotify:track:21ZRkuRePLYRdDxgEb2g1V
+      - id: 74Vv3xHNCZ1dYoEX5NtYRB
+        name: Utopia
+        popularity: 22
+        uri: spotify:track:74Vv3xHNCZ1dYoEX5NtYRB
+      - id: 09QZEVaI1tNgTnimn7MAEW
+        name: Dark Salvation
+        popularity: 21
+        uri: spotify:track:09QZEVaI1tNgTnimn7MAEW
+      - id: 0muVeuCuDkyMDxriPdoPtm
+        name: Beauty After Midnight
+        popularity: 21
+        uri: spotify:track:0muVeuCuDkyMDxriPdoPtm
+      uri: spotify:artist:2S3xwpueZpPVUDTTv7Wefx
+      wgt_name: Gothminister
+    spotify:artist:2bgbVGrSNMoTB9xNqZNJt1:
+      genres: []
+      id: 2bgbVGrSNMoTB9xNqZNJt1
+      name: Peter Yates
+      popularity: 1
+      tracks:
+      - id: 60PwvPXjDF9thsmWTWMqHw
+        name: 'Timeflies: I. slowly we turn...'
+        popularity: 1
+        uri: spotify:track:60PwvPXjDF9thsmWTWMqHw
+      - id: 7fLIP6gfE1URhFqvkEZhrO
+        name: 'Cross-Currents: II. Interlude'
+        popularity: 0
+        uri: spotify:track:7fLIP6gfE1URhFqvkEZhrO
+      - id: 5RnqswvQOhzk9An6srrlja
+        name: 'Timeflies: II. ...gliding...'
+        popularity: 0
+        uri: spotify:track:5RnqswvQOhzk9An6srrlja
+      - id: 304NBaesmEAMKNW34BfiF6
+        name: 'Rua bambui: I. —'
+        popularity: 0
+        uri: spotify:track:304NBaesmEAMKNW34BfiF6
+      - id: 5EkmrXvgFtPwKlFhpzed9J
+        name: 'Cross-Currents: III. Undulating'
+        popularity: 0
+        uri: spotify:track:5EkmrXvgFtPwKlFhpzed9J
+      - id: 5CV6GfJXFKooiaojbYyDEx
+        name: 'Cross-Currents: I. Alternating'
+        popularity: 0
+        uri: spotify:track:5CV6GfJXFKooiaojbYyDEx
+      - id: 6HveqJXFCyudn2s3Ux43Rg
+        name: 'Timeflies: III. when we''re having...'
+        popularity: 0
+        uri: spotify:track:6HveqJXFCyudn2s3Ux43Rg
+      - id: 5S8DtJUh6pVL10krlK6hhp
+        name: '3 Movements: No. 3. Dance in 11/8'
+        popularity: 0
+        uri: spotify:track:5S8DtJUh6pVL10krlK6hhp
+      - id: 4nNS6s4DjLVKlUcO3do0iz
+        name: '5 Scenes from the Life of Edward de Vere: No. 3. Paradise of Dainty
+          Devices'
+        popularity: 0
+        uri: spotify:track:4nNS6s4DjLVKlUcO3do0iz
+      - id: 3iMpI3AlcVUIZudVWiGZDC
+        name: 'Rua bambui: II. —'
+        popularity: 0
+        uri: spotify:track:3iMpI3AlcVUIZudVWiGZDC
+      uri: spotify:artist:2bgbVGrSNMoTB9xNqZNJt1
+      wgt_name: Peter Yates
+    spotify:artist:2c1ubGcLgTEH45ASSQyRU9:
+      genres: []
+      id: 2c1ubGcLgTEH45ASSQyRU9
+      name: Christ vs. Warhol
+      popularity: 8
+      tracks:
+      - id: 3YOAnoHRtdSImZX8iWqNnb
+        name: Cross of Lorraine
+        popularity: 11
+        uri: spotify:track:3YOAnoHRtdSImZX8iWqNnb
+      - id: 2LDPX3elOMIVY8QM25P3wk
+        name: Paper Dolls
+        popularity: 8
+        uri: spotify:track:2LDPX3elOMIVY8QM25P3wk
+      - id: 5LYdGPQfL3pLRhPKEg1AZR
+        name: Dissent
+        popularity: 3
+        uri: spotify:track:5LYdGPQfL3pLRhPKEg1AZR
+      - id: 1QqCliJLAcrCE65ORsLmw3
+        name: Transmission
+        popularity: 5
+        uri: spotify:track:1QqCliJLAcrCE65ORsLmw3
+      - id: 2n6WtpX9zNgtHCs1BoOwO9
+        name: Fool's Gold
+        popularity: 2
+        uri: spotify:track:2n6WtpX9zNgtHCs1BoOwO9
+      - id: 3yErauCiZwKzQ8HLooQYKW
+        name: And If You Forget
+        popularity: 3
+        uri: spotify:track:3yErauCiZwKzQ8HLooQYKW
+      - id: 48MTHwxXwym2oLxgWs2WmD
+        name: Robin Hood In Reverse
+        popularity: 4
+        uri: spotify:track:48MTHwxXwym2oLxgWs2WmD
+      - id: 4KTbVPA3VMHFjLcQR3uJ8K
+        name: The End Is Nigh
+        popularity: 4
+        uri: spotify:track:4KTbVPA3VMHFjLcQR3uJ8K
+      - id: 3BqYety6d2a1gAW7xMuVlF
+        name: Fade
+        popularity: 1
+        uri: spotify:track:3BqYety6d2a1gAW7xMuVlF
+      - id: 2x7ddFLMPX0tOiwdIedusb
+        name: A New Model of the Universe
+        popularity: 2
+        uri: spotify:track:2x7ddFLMPX0tOiwdIedusb
+      uri: spotify:artist:2c1ubGcLgTEH45ASSQyRU9
+      wgt_name: Christ Vs. Warhol
+    spotify:artist:2hfInImCCmb7zXIuCE15IN:
+      genres: []
+      id: 2hfInImCCmb7zXIuCE15IN
+      name: Unzucht
+      popularity: 26
+      tracks:
+      - id: 5s8tJ4WbcjckcyRPbXiHDx
+        name: Afterlife Of Death - Remix by Unzucht
+        popularity: 8
+        uri: spotify:track:5s8tJ4WbcjckcyRPbXiHDx
+      - id: 51UiredUZSw5cJIXb73jsv
+        name: Engel der Vernichtung
+        popularity: 8
+        uri: spotify:track:51UiredUZSw5cJIXb73jsv
+      - id: 0oech3G67TDcXT8553mvMC
+        name: Kleine geile Nonne
+        popularity: 3
+        uri: spotify:track:0oech3G67TDcXT8553mvMC
+      - id: 49TXy46aFXLgEOBt16J3LZ
+        name: Unzucht
+        popularity: 2
+        uri: spotify:track:49TXy46aFXLgEOBt16J3LZ
+      - id: 26Eeyeg06PZlFASTkiO9ww
+        name: Schweigen
+        popularity: 2
+        uri: spotify:track:26Eeyeg06PZlFASTkiO9ww
+      - id: 7dOJx1X27tukAENyCNdwUN
+        name: Nur die Ewigkeit
+        popularity: 2
+        uri: spotify:track:7dOJx1X27tukAENyCNdwUN
+      - id: 7giXfPfbs4CXHkkfcls9ok
+        name: Deine Zeit läuft ab
+        popularity: 2
+        uri: spotify:track:7giXfPfbs4CXHkkfcls9ok
+      - id: 5u6rdEqmz6RTJmsEMRCatn
+        name: Seelenbild
+        popularity: 1
+        uri: spotify:track:5u6rdEqmz6RTJmsEMRCatn
+      - id: 7MfRuZd939XZgO4fi6sIKn
+        name: Schwarzes Blut
+        popularity: 1
+        uri: spotify:track:7MfRuZd939XZgO4fi6sIKn
+      - id: 2MT6tGAHctR1voRYTqqZY2
+        name: Rosenkreuzer
+        popularity: 1
+        uri: spotify:track:2MT6tGAHctR1voRYTqqZY2
+      uri: spotify:artist:2hfInImCCmb7zXIuCE15IN
+      wgt_name: Unzucht
+    spotify:artist:2rZkWg6RaoiuFmHrtrh0T4:
+      genres: []
+      id: 2rZkWg6RaoiuFmHrtrh0T4
+      name: XTR Human
+      popularity: 4
+      tracks:
+      - id: 2dcb3pa5bgvVJVnDQICL7H
+        name: Miller's Love
+        popularity: 8
+        uri: spotify:track:2dcb3pa5bgvVJVnDQICL7H
+      - id: 4Th6zR68fdJ4yAUzff6XLw
+        name: Axiom
+        popularity: 7
+        uri: spotify:track:4Th6zR68fdJ4yAUzff6XLw
+      - id: 59A4ctd7p1hYAv7isYi90W
+        name: Dysfunction
+        popularity: 4
+        uri: spotify:track:59A4ctd7p1hYAv7isYi90W
+      - id: 2vjs8rLNWZHgrKtv0zhmPR
+        name: Monitor
+        popularity: 4
+        uri: spotify:track:2vjs8rLNWZHgrKtv0zhmPR
+      - id: 3qarCpBNwp7CFExHbjVTIO
+        name: Golden Dawn
+        popularity: 3
+        uri: spotify:track:3qarCpBNwp7CFExHbjVTIO
+      - id: 38UNuuOLkH1J8T8bIWDSi1
+        name: Atavism
+        popularity: 2
+        uri: spotify:track:38UNuuOLkH1J8T8bIWDSi1
+      - id: 5OI5J3fuDvMRcLvqHBoxcO
+        name: Spiegelmenschen
+        popularity: 2
+        uri: spotify:track:5OI5J3fuDvMRcLvqHBoxcO
+      - id: 5zIhSOAIElQsCMXfcKoEVi
+        name: Death of a Salesman
+        popularity: 2
+        uri: spotify:track:5zIhSOAIElQsCMXfcKoEVi
+      - id: 3VzFfAupgkDZyApH8jfiFN
+        name: Lost Symmetry
+        popularity: 2
+        uri: spotify:track:3VzFfAupgkDZyApH8jfiFN
+      - id: 0p3jCVAamfXE9n79qMnJcl
+        name: Reckoning
+        popularity: 2
+        uri: spotify:track:0p3jCVAamfXE9n79qMnJcl
+      uri: spotify:artist:2rZkWg6RaoiuFmHrtrh0T4
+      wgt_name: XTR Human
+    spotify:artist:3CSQtK60sg2jNNxnpThSN1:
+      genres:
+      - nwobhm
+      id: 3CSQtK60sg2jNNxnpThSN1
+      name: Grim Reaper
+      popularity: 30
+      tracks:
+      - id: 0Sn20pHyBZ8KTJasKs3GSM
+        name: Rock You To Hell
+        popularity: 34
+        uri: spotify:track:0Sn20pHyBZ8KTJasKs3GSM
+      - id: 30qV7b1T8K48Nf61oZ4us7
+        name: See You In Hell
+        popularity: 33
+        uri: spotify:track:30qV7b1T8K48Nf61oZ4us7
+      - id: 0kMIoF4WZvUuk2qgpyXVGA
+        name: Fear No Evil
+        popularity: 24
+        uri: spotify:track:0kMIoF4WZvUuk2qgpyXVGA
+      - id: 2dlPl5yPY3jR723luEI58F
+        name: See You in Hell
+        popularity: 23
+        uri: spotify:track:2dlPl5yPY3jR723luEI58F
+      - id: 40hL049vncDOSulMgcQbgQ
+        name: Lust For Freedom
+        popularity: 21
+        uri: spotify:track:40hL049vncDOSulMgcQbgQ
+      - id: 36Wk72JZuX1CurZuJUKZG8
+        name: Wrath Of The Reaper
+        popularity: 21
+        uri: spotify:track:36Wk72JZuX1CurZuJUKZG8
+      - id: 2FjOgtYxg8fhqYBtCR5yxx
+        name: Waysted Love
+        popularity: 19
+        uri: spotify:track:2FjOgtYxg8fhqYBtCR5yxx
+      - id: 2aCnHezfBKaMjPD3qc5wqq
+        name: Never Coming Back
+        popularity: 19
+        uri: spotify:track:2aCnHezfBKaMjPD3qc5wqq
+      - id: 11RdoA1WkRSA9LUEX8ftzm
+        name: All Hell Let Loose
+        popularity: 18
+        uri: spotify:track:11RdoA1WkRSA9LUEX8ftzm
+      - id: 4ttr03BvlkM6zGd7xJg57W
+        name: The Show Must Go On
+        popularity: 17
+        uri: spotify:track:4ttr03BvlkM6zGd7xJg57W
+      uri: spotify:artist:3CSQtK60sg2jNNxnpThSN1
+      wgt_name: Reaper
+    spotify:artist:3KPGTmc7LTodUo6mG4KvzQ:
+      genres:
+      - psychobilly
+      id: 3KPGTmc7LTodUo6mG4KvzQ
+      name: Nekromantix
+      popularity: 39
+      tracks:
+      - id: 3Ero9C3m7RlEf1xu5XhFDC
+        name: Who Killed The Cheerleader
+        popularity: 38
+        uri: spotify:track:3Ero9C3m7RlEf1xu5XhFDC
+      - id: 1WAFh6Q2IVs2OgnAIQFjjC
+        name: Haunted Cathouse
+        popularity: 35
+        uri: spotify:track:1WAFh6Q2IVs2OgnAIQFjjC
+      - id: 7HtSPzWtfn0PWY2NkWGYvq
+        name: Gargoyles Over Copenhagen
+        popularity: 34
+        uri: spotify:track:7HtSPzWtfn0PWY2NkWGYvq
+      - id: 5nM8qHxgb0I7QgxD4zyoYC
+        name: My Girl
+        popularity: 31
+        uri: spotify:track:5nM8qHxgb0I7QgxD4zyoYC
+      - id: 7rm8wfVYIayEFTX9HW0DJF
+        name: Subcultural Girl
+        popularity: 31
+        uri: spotify:track:7rm8wfVYIayEFTX9HW0DJF
+      - id: 7zGxgHU7C52oBT7Xu88Ivf
+        name: Horny In A Hearse
+        popularity: 30
+        uri: spotify:track:7zGxgHU7C52oBT7Xu88Ivf
+      - id: 1CrCjB0ihP0OBPMHYwviF0
+        name: Dead Girls Don't Cry
+        popularity: 29
+        uri: spotify:track:1CrCjB0ihP0OBPMHYwviF0
+      - id: 6hEwlV2sVno421TZtnduKY
+        name: Nekrofelia
+        popularity: 29
+        uri: spotify:track:6hEwlV2sVno421TZtnduKY
+      - id: 3Q9G213iOuM72OWIu86oJH
+        name: Trick Or treat
+        popularity: 29
+        uri: spotify:track:3Q9G213iOuM72OWIu86oJH
+      - id: 65OlVx8n1IyL86L24vvEzy
+        name: Nice Day For A Resurrection
+        popularity: 29
+        uri: spotify:track:65OlVx8n1IyL86L24vvEzy
+      uri: spotify:artist:3KPGTmc7LTodUo6mG4KvzQ
+      wgt_name: Nekromantix
+    spotify:artist:3RqcvcGqQtD58NtJlXeTib:
+      genres: []
+      id: 3RqcvcGqQtD58NtJlXeTib
+      name: The Deadfly Ensemble
+      popularity: 6
+      tracks:
+      - id: 4V10fmgQAc5bxDpYfKsgln
+        name: Revenge On The Nursemaid
+        popularity: 8
+        uri: spotify:track:4V10fmgQAc5bxDpYfKsgln
+      - id: 3ZZRdoOMekgIJDF3HapG5T
+        name: Horse On the Moor
+        popularity: 8
+        uri: spotify:track:3ZZRdoOMekgIJDF3HapG5T
+      - id: 7N2PFSOsilPrrEDTOUXw4M
+        name: Bruise Animals
+        popularity: 4
+        uri: spotify:track:7N2PFSOsilPrrEDTOUXw4M
+      - id: 4AY9YfS2HMVPdv9q7at8LG
+        name: Ursusarktos The Bachelor
+        popularity: 4
+        uri: spotify:track:4AY9YfS2HMVPdv9q7at8LG
+      - id: 1ujLYsMSfbMd6XSQy9f2F7
+        name: John Fall Apart John
+        popularity: 4
+        uri: spotify:track:1ujLYsMSfbMd6XSQy9f2F7
+      - id: 5P6FEYyjmDObOKCtlcyNOI
+        name: The Adventures Of Jonas Mauken
+        popularity: 3
+        uri: spotify:track:5P6FEYyjmDObOKCtlcyNOI
+      - id: 1yLX41p0Ic3OLemnkLoX1y
+        name: Polymelia And The Satyr
+        popularity: 3
+        uri: spotify:track:1yLX41p0Ic3OLemnkLoX1y
+      - id: 2O5T6UDQ7spsyCWnXBAODo
+        name: Dirty Weather
+        popularity: 2
+        uri: spotify:track:2O5T6UDQ7spsyCWnXBAODo
+      - id: 7ag9spjDHLrsyw6zdQW1Uj
+        name: Intro
+        popularity: 2
+        uri: spotify:track:7ag9spjDHLrsyw6zdQW1Uj
+      - id: 2fTM1u9aSmIYIUZEEWgbhM
+        name: Meaty Bones And Porridge
+        popularity: 2
+        uri: spotify:track:2fTM1u9aSmIYIUZEEWgbhM
+      uri: spotify:artist:3RqcvcGqQtD58NtJlXeTib
+      wgt_name: The Deadfly Ensemble
+    spotify:artist:4N99bzdRBNRi7hGNCpMuhu:
+      genres:
+      - aggrotech
+      - electro-industrial
+      id: 4N99bzdRBNRi7hGNCpMuhu
+      name: Suicide Commando
+      popularity: 37
+      tracks:
+      - id: 25xTdrTpBw0haZn6Ke71nr
+        name: Die Motherfucker Die
+        popularity: 36
+        uri: spotify:track:25xTdrTpBw0haZn6Ke71nr
+      - id: 5AtvTAcqTzN6LWlgBmSJJr
+        name: See You in Hell (feat. Johan Van Roy)
+        popularity: 34
+        uri: spotify:track:5AtvTAcqTzN6LWlgBmSJJr
+      - id: 2pLypmE52BSVSQR8DSYbWd
+        name: Bind, Torture, Kill
+        popularity: 21
+        uri: spotify:track:2pLypmE52BSVSQR8DSYbWd
+      - id: 473gb900mNoJ5JId24LG2N
+        name: Hellraiser - VNV Nation Remix
+        popularity: 19
+        uri: spotify:track:473gb900mNoJ5JId24LG2N
+      - id: 7LyU2gCeNvjNjZn4iw8N8N
+        name: God Is In The Rain
+        popularity: 22
+        uri: spotify:track:7LyU2gCeNvjNjZn4iw8N8N
+      - id: 6U4WK1KP13ttzdamr7c6BZ
+        name: Far From Humans - feat. Suicide Commando
+        popularity: 25
+        uri: spotify:track:6U4WK1KP13ttzdamr7c6BZ
+      - id: 6DtPpk0qbpyHWb8ErrBIIx
+        name: 'Cause Of Death: Suicide'
+        popularity: 12
+        uri: spotify:track:6DtPpk0qbpyHWb8ErrBIIx
+      - id: 2PGX1p44wWBFKPkjrFVQvd
+        name: Attention Whore
+        popularity: 21
+        uri: spotify:track:2PGX1p44wWBFKPkjrFVQvd
+      - id: 4AqEIpbD8xBownQ2MOu4zz
+        name: Where Are You Now?
+        popularity: 21
+        uri: spotify:track:4AqEIpbD8xBownQ2MOu4zz
+      - id: 67c9VteUIoJtl5HOyKT6v6
+        name: Time
+        popularity: 18
+        uri: spotify:track:67c9VteUIoJtl5HOyKT6v6
+      uri: spotify:artist:4N99bzdRBNRi7hGNCpMuhu
+      wgt_name: Suicide Commando
+    spotify:artist:4mThwsSbWivX0sqbYJ5LV0:
+      genres: []
+      id: 4mThwsSbWivX0sqbYJ5LV0
+      name: Kuroshio
+      popularity: 2
+      tracks:
+      - id: 7gQ40WAr5kBi6AsVAiHeAq
+        name: Biorobot - Refined
+        popularity: 5
+        uri: spotify:track:7gQ40WAr5kBi6AsVAiHeAq
+      - id: 0MJPyQRWtv3TBIMoJEGkcj
+        name: Dreamcatcher
+        popularity: 3
+        uri: spotify:track:0MJPyQRWtv3TBIMoJEGkcj
+      - id: 2MBQSpyg5NnHmspEbocZnJ
+        name: Undefined
+        popularity: 2
+        uri: spotify:track:2MBQSpyg5NnHmspEbocZnJ
+      - id: 1umEscUqrN6TxXxQ8GnOwi
+        name: Hacked - Album Mix
+        popularity: 2
+        uri: spotify:track:1umEscUqrN6TxXxQ8GnOwi
+      - id: 6uL55wUm7nfYHdxchD8HiM
+        name: Sunburn
+        popularity: 2
+        uri: spotify:track:6uL55wUm7nfYHdxchD8HiM
+      - id: 6zWZglKi5AlKXgPcWL8k3h
+        name: Room 10
+        popularity: 2
+        uri: spotify:track:6zWZglKi5AlKXgPcWL8k3h
+      - id: 3tf2orYVOMObRC6dT4xtji
+        name: Autumn
+        popularity: 1
+        uri: spotify:track:3tf2orYVOMObRC6dT4xtji
+      - id: 4GuBszLRoe38ojqDcuwID7
+        name: Inferno
+        popularity: 1
+        uri: spotify:track:4GuBszLRoe38ojqDcuwID7
+      - id: 6FmejdujBfEHmOfTnYHGJX
+        name: Scannerhead
+        popularity: 1
+        uri: spotify:track:6FmejdujBfEHmOfTnYHGJX
+      - id: 1jBbUB6iHEOfgwgv874l44
+        name: Amplified - 2012 Version
+        popularity: 1
+        uri: spotify:track:1jBbUB6iHEOfgwgv874l44
+      uri: spotify:artist:4mThwsSbWivX0sqbYJ5LV0
+      wgt_name: Kuroshio
+    spotify:artist:4q2uhIfBHCNlwXYvQdnzvS:
+      genres:
+      - gothic metal
+      id: 4q2uhIfBHCNlwXYvQdnzvS
+      name: Crematory
+      popularity: 27
+      tracks:
+      - id: 1kVsyOI6IJoEg4LyXuosry
+        name: Tears Of Time
+        popularity: 30
+        uri: spotify:track:1kVsyOI6IJoEg4LyXuosry
+      - id: 2BoRhRX1e7wXcrQfzMpjYJ
+        name: One
+        popularity: 15
+        uri: spotify:track:2BoRhRX1e7wXcrQfzMpjYJ
+      - id: 7moZHEboV651WD8lAxcJou
+        name: Flieg mit mir
+        popularity: 13
+        uri: spotify:track:7moZHEboV651WD8lAxcJou
+      - id: 0hQS51AjQ4tVlyRnmRffOf
+        name: Ist es wahr
+        popularity: 13
+        uri: spotify:track:0hQS51AjQ4tVlyRnmRffOf
+      - id: 0W6WeozodwsxRLeainu8S1
+        name: Tears Of Time
+        popularity: 12
+        uri: spotify:track:0W6WeozodwsxRLeainu8S1
+      - id: 4WbrfYKjaz0SDaFvCKCjFJ
+        name: Ewigkeit
+        popularity: 11
+        uri: spotify:track:4WbrfYKjaz0SDaFvCKCjFJ
+      - id: 1pGim5y8tJZxX0CagxYB4a
+        name: Das Licht in Dir
+        popularity: 11
+        uri: spotify:track:1pGim5y8tJZxX0CagxYB4a
+      - id: 3HPWc1ladEBqA7hLbD7jF2
+        name: Deformity
+        popularity: 10
+        uri: spotify:track:3HPWc1ladEBqA7hLbD7jF2
+      - id: 4rDwKVzYytWXoZw06Z7xI8
+        name: Utopia
+        popularity: 10
+        uri: spotify:track:4rDwKVzYytWXoZw06Z7xI8
+      - id: 5X2Dge9RfWciWvPe9QbZFX
+        name: Until The End
+        popularity: 9
+        uri: spotify:track:5X2Dge9RfWciWvPe9QbZFX
+      uri: spotify:artist:4q2uhIfBHCNlwXYvQdnzvS
+      wgt_name: Crematory
+    spotify:artist:5GXP40qqAgwCsG6mQ3NMWj:
+      genres: []
+      id: 5GXP40qqAgwCsG6mQ3NMWj
+      name: In The Nursery
+      popularity: 15
+      tracks:
+      - id: 1k9M8Ggy2dgmmWn7wuBbJp
+        name: Artisans of Civilisation
+        popularity: 12
+        uri: spotify:track:1k9M8Ggy2dgmmWn7wuBbJp
+      - id: 2YjelI9nu9LMaziCbU38uf
+        name: Crepuscule
+        popularity: 9
+        uri: spotify:track:2YjelI9nu9LMaziCbU38uf
+      - id: 6Il5KwxoTnYXxtuagJ6GcH
+        name: Usher!
+        popularity: 8
+        uri: spotify:track:6Il5KwxoTnYXxtuagJ6GcH
+      - id: 4neepi4TrpepKXN9Qj6MG3
+        name: A to I
+        popularity: 8
+        uri: spotify:track:4neepi4TrpepKXN9Qj6MG3
+      - id: 28acvBtEDvIc8tlPWvhn9G
+        name: Madeline
+        popularity: 8
+        uri: spotify:track:28acvBtEDvIc8tlPWvhn9G
+      - id: 3wC3gBpcIXwAS2g4YTZHY5
+        name: Discordant Melody
+        popularity: 6
+        uri: spotify:track:3wC3gBpcIXwAS2g4YTZHY5
+      - id: 0yQL01azD9xi1NYjv0paxh
+        name: Tenure 1
+        popularity: 6
+        uri: spotify:track:0yQL01azD9xi1NYjv0paxh
+      - id: 7mlGUerpI0HHAXgWbk15SW
+        name: Mystery
+        popularity: 6
+        uri: spotify:track:7mlGUerpI0HHAXgWbk15SW
+      - id: 1k47uocJ2FvSX3tCH44JH9
+        name: A Settled Apathy
+        popularity: 6
+        uri: spotify:track:1k47uocJ2FvSX3tCH44JH9
+      - id: 3qlLr1Nj5wEQXbvBPLDnCK
+        name: Twisted Storm
+        popularity: 6
+        uri: spotify:track:3qlLr1Nj5wEQXbvBPLDnCK
+      uri: spotify:artist:5GXP40qqAgwCsG6mQ3NMWj
+      wgt_name: In The Nursery
+    spotify:artist:5PhSiNjHZevtfAj9zmvVkU:
+      genres: []
+      id: 5PhSiNjHZevtfAj9zmvVkU
+      name: Hante.
+      popularity: 13
+      tracks:
+      - id: 28b2yK3FFu5W2XbG0eLGV9
+        name: The Storm
+        popularity: 15
+        uri: spotify:track:28b2yK3FFu5W2XbG0eLGV9
+      - id: 36OfQaa0lkvzPfk432HKzP
+        name: Falling From Grace
+        popularity: 13
+        uri: spotify:track:36OfQaa0lkvzPfk432HKzP
+      - id: 1kuiovP6ZPkLWGhEeKTDbE
+        name: One More Dance
+        popularity: 12
+        uri: spotify:track:1kuiovP6ZPkLWGhEeKTDbE
+      - id: 6kwuM0MqZ5KVldoGfJzFNJ
+        name: Damages
+        popularity: 11
+        uri: spotify:track:6kwuM0MqZ5KVldoGfJzFNJ
+      - id: 64TwJdarP3BarzEmuXhnRe
+        name: Beyond The Waves
+        popularity: 11
+        uri: spotify:track:64TwJdarP3BarzEmuXhnRe
+      - id: 3ropLTn9nFXdp1i44OHtZg
+        name: Il n'y a qu'un Pas
+        popularity: 10
+        uri: spotify:track:3ropLTn9nFXdp1i44OHtZg
+      - id: 6KOND9hgeTxYSNmIGM7pNY
+        name: Bienvenue en Enfer
+        popularity: 9
+        uri: spotify:track:6KOND9hgeTxYSNmIGM7pNY
+      - id: 71mbz3GVwiuo9Xx9LpzxGD
+        name: Hate vs Love
+        popularity: 9
+        uri: spotify:track:71mbz3GVwiuo9Xx9LpzxGD
+      - id: 4tbSTqI0vwkXKpaG8PC0UW
+        name: This Morning of September
+        popularity: 9
+        uri: spotify:track:4tbSTqI0vwkXKpaG8PC0UW
+      - id: 4vlbek11IZ94r3S13tDUyk
+        name: In Cold Water
+        popularity: 9
+        uri: spotify:track:4vlbek11IZ94r3S13tDUyk
+      uri: spotify:artist:5PhSiNjHZevtfAj9zmvVkU
+      wgt_name: Hante.
+    spotify:artist:5QxKfIfmzEobeWqEfe84ei:
+      genres: []
+      id: 5QxKfIfmzEobeWqEfe84ei
+      name: Artwork
+      popularity: 11
+      tracks:
+      - id: 32dWf0NfxWDDwnRsdg9unb
+        name: Rank
+        popularity: 19
+        uri: spotify:track:32dWf0NfxWDDwnRsdg9unb
+      - id: 7cAnBFJ92MKAXT73a0yBFx
+        name: Red
+        popularity: 9
+        uri: spotify:track:7cAnBFJ92MKAXT73a0yBFx
+      - id: 6SQH5DC999LsO6cOF7P7EE
+        name: Stadt Der Träume
+        popularity: 5
+        uri: spotify:track:6SQH5DC999LsO6cOF7P7EE
+      - id: 5tU8Sp6CWko3T2YJ7GD2JP
+        name: Stadt Der Traume
+        popularity: 2
+        uri: spotify:track:5tU8Sp6CWko3T2YJ7GD2JP
+      - id: 2qBqiwwYgJNeEN5OwFly0G
+        name: Bring The Rain
+        popularity: 2
+        uri: spotify:track:2qBqiwwYgJNeEN5OwFly0G
+      - id: 5PvbZUBbWG2omYkr96ExNt
+        name: Staub
+        popularity: 1
+        uri: spotify:track:5PvbZUBbWG2omYkr96ExNt
+      - id: 6ukMBzMPeoISiUYcbBLmeW
+        name: Cool Change
+        popularity: 1
+        uri: spotify:track:6ukMBzMPeoISiUYcbBLmeW
+      - id: 0D5q47ElUpErwPGr3GBIvP
+        name: True Love
+        popularity: 0
+        uri: spotify:track:0D5q47ElUpErwPGr3GBIvP
+      - id: 4aK70EYjdiUjdzKSasriPP
+        name: Bella Donna Requiem
+        popularity: 0
+        uri: spotify:track:4aK70EYjdiUjdzKSasriPP
+      - id: 0PXV4uSRVme4bsBkf23VER
+        name: Kokomo
+        popularity: 0
+        uri: spotify:track:0PXV4uSRVme4bsBkf23VER
+      uri: spotify:artist:5QxKfIfmzEobeWqEfe84ei
+      wgt_name: Artwork
+    spotify:artist:5RlRbDLz9Oo7r4TM9hSfCu:
+      genres: []
+      id: 5RlRbDLz9Oo7r4TM9hSfCu
+      name: supersimmetria
+      popularity: 4
+      tracks:
+      - id: 2jj9AcM5GvAlsCeDAa1KW1
+        name: Chiasm
+        popularity: 3
+        uri: spotify:track:2jj9AcM5GvAlsCeDAa1KW1
+      - id: 7DiUbSk0I1C9e7QbJi6rIK
+        name: Aleph
+        popularity: 3
+        uri: spotify:track:7DiUbSk0I1C9e7QbJi6rIK
+      - id: 52s6BQAkDxPBrc9EhA6xuD
+        name: Parallax
+        popularity: 3
+        uri: spotify:track:52s6BQAkDxPBrc9EhA6xuD
+      - id: 6eYcbRdtrfTIHvLbuywns1
+        name: Monodromía
+        popularity: 2
+        uri: spotify:track:6eYcbRdtrfTIHvLbuywns1
+      - id: 2o3K8GXl7XHMOzdyjHsjNg
+        name: Solar Flare
+        popularity: 2
+        uri: spotify:track:2o3K8GXl7XHMOzdyjHsjNg
+      - id: 7tMN8dgdqeOtrlMO8qHlot
+        name: Spatial Coherence
+        popularity: 2
+        uri: spotify:track:7tMN8dgdqeOtrlMO8qHlot
+      - id: 6FLYRljYwjpFOqk1idnA48
+        name: Casimir Effect
+        popularity: 2
+        uri: spotify:track:6FLYRljYwjpFOqk1idnA48
+      - id: 0OFz0Kl9O8YISFb3xaThok
+        name: Gestalt
+        popularity: 2
+        uri: spotify:track:0OFz0Kl9O8YISFb3xaThok
+      - id: 5QXNDC4d5NE96NLnsBFamI
+        name: Auroræ
+        popularity: 2
+        uri: spotify:track:5QXNDC4d5NE96NLnsBFamI
+      - id: 0C65VeBkBYZJZBhRBwE70E
+        name: No Signal (Geistform Remix)
+        popularity: 2
+        uri: spotify:track:0C65VeBkBYZJZBhRBwE70E
+      uri: spotify:artist:5RlRbDLz9Oo7r4TM9hSfCu
+      wgt_name: Supersimmetria
+    spotify:artist:5RxKFWH5QHNCQkEhjYHkUC:
+      genres: []
+      id: 5RxKFWH5QHNCQkEhjYHkUC
+      name: Winter Severity Index
+      popularity: 14
+      tracks:
+      - id: 32icUa6x17P12JviFziG4k
+        name: A Sudden Cold
+        popularity: 16
+        uri: spotify:track:32icUa6x17P12JviFziG4k
+      - id: 2gaSYizu0tSF17BLsFbls4
+        name: The Wiser
+        popularity: 15
+        uri: spotify:track:2gaSYizu0tSF17BLsFbls4
+      - id: 2mIxRmqbGu029HzfWOM2YC
+        name: At Least the Snow
+        popularity: 13
+        uri: spotify:track:2mIxRmqbGu029HzfWOM2YC
+      - id: 5t72Y9fJMsG4g0hzvU3dLZ
+        name: The Brightest Days
+        popularity: 13
+        uri: spotify:track:5t72Y9fJMsG4g0hzvU3dLZ
+      - id: 59vJme6YbxwTmtE4Col2uD
+        name: Ordinary Love
+        popularity: 13
+        uri: spotify:track:59vJme6YbxwTmtE4Col2uD
+      - id: 7aKlaNKQ7SktbirKTxqDyh
+        name: Fishblood
+        popularity: 11
+        uri: spotify:track:7aKlaNKQ7SktbirKTxqDyh
+      - id: 2eYmYztdRt055QNuFsAmFE
+        name: Bianca
+        popularity: 10
+        uri: spotify:track:2eYmYztdRt055QNuFsAmFE
+      - id: 5xxlzVgPqv9a9NtlGW7gEK
+        name: Lighting Ratio
+        popularity: 10
+        uri: spotify:track:5xxlzVgPqv9a9NtlGW7gEK
+      - id: 6UzFkOPHrtEdfntmcHKXEj
+        name: No Will
+        popularity: 10
+        uri: spotify:track:6UzFkOPHrtEdfntmcHKXEj
+      - id: 6dfMRO7Fk5W0IyErlVUDJH
+        name: Embracing the Void
+        popularity: 9
+        uri: spotify:track:6dfMRO7Fk5W0IyErlVUDJH
+      uri: spotify:artist:5RxKFWH5QHNCQkEhjYHkUC
+      wgt_name: Winter Severity Index
+    spotify:artist:5ZFQP37t7siJu1oArvumyu:
+      genres: []
+      id: 5ZFQP37t7siJu1oArvumyu
+      name: Nullvektor
+      popularity: 3
+      tracks:
+      - id: 5h9W6YKYMfhskqMgIY2qho
+        name: Ohne Zweifel
+        popularity: 3
+        uri: spotify:track:5h9W6YKYMfhskqMgIY2qho
+      - id: 2Oyzlj28adJWzxJGc3t17x
+        name: Marathonmann
+        popularity: 2
+        uri: spotify:track:2Oyzlj28adJWzxJGc3t17x
+      - id: 3sNXmIZHecQrTl9LhbZzkt
+        name: Durch die Nacht
+        popularity: 2
+        uri: spotify:track:3sNXmIZHecQrTl9LhbZzkt
+      - id: 26UKjfG4YCYoEElea8YDO1
+        name: Aufgewacht
+        popularity: 2
+        uri: spotify:track:26UKjfG4YCYoEElea8YDO1
+      - id: 5DadXmmaCV9z9uecMmuoKo
+        name: Hast du genug?
+        popularity: 2
+        uri: spotify:track:5DadXmmaCV9z9uecMmuoKo
+      - id: 2hpbPhoH9nEo1gBNYe8Phn
+        name: Rückwirkung
+        popularity: 2
+        uri: spotify:track:2hpbPhoH9nEo1gBNYe8Phn
+      - id: 3886UDWqppFxQymRju6qRW
+        name: Grundeinstellung
+        popularity: 1
+        uri: spotify:track:3886UDWqppFxQymRju6qRW
+      - id: 4wMOP88d8v9qcBrDtbGKiM
+        name: Wenn du es tust
+        popularity: 1
+        uri: spotify:track:4wMOP88d8v9qcBrDtbGKiM
+      - id: 6DFEYVa6ydEy6y7me25ul2
+        name: Freisetzungssystem
+        popularity: 1
+        uri: spotify:track:6DFEYVa6ydEy6y7me25ul2
+      - id: 43HizfFArR7QnvW3RU5G6W
+        name: Wiederholung
+        popularity: 1
+        uri: spotify:track:43HizfFArR7QnvW3RU5G6W
+      uri: spotify:artist:5ZFQP37t7siJu1oArvumyu
+      wgt_name: Nullvektor
+    spotify:artist:5eTXnFPGx2tTzCEYwCNy5v:
+      genres:
+      - dark wave
+      id: 5eTXnFPGx2tTzCEYwCNy5v
+      name: Girls Under Glass
+      popularity: 16
+      tracks:
+      - id: 59wQ4fRxzqjMxtBcARlcTN
+        name: Frozen
+        popularity: 17
+        uri: spotify:track:59wQ4fRxzqjMxtBcARlcTN
+      - id: 668T98fp7ckQwSA7arWcq0
+        name: Ohne Dich
+        popularity: 16
+        uri: spotify:track:668T98fp7ckQwSA7arWcq0
+      - id: 2Ka1VY0PONl59FreCUl0mm
+        name: When I Think About You
+        popularity: 12
+        uri: spotify:track:2Ka1VY0PONl59FreCUl0mm
+      - id: 3OX6sfhdWUmcAgJPuELb8g
+        name: Reach for the Stars
+        popularity: 11
+        uri: spotify:track:3OX6sfhdWUmcAgJPuELb8g
+      - id: 1pp5EX7hOdN12Ey1SjI12x
+        name: As Time Goes By
+        popularity: 9
+        uri: spotify:track:1pp5EX7hOdN12Ey1SjI12x
+      - id: 46vVHgK0dxzOAVm3XReEiN
+        name: In The Darkness
+        popularity: 9
+        uri: spotify:track:46vVHgK0dxzOAVm3XReEiN
+      - id: 1UZtb66Dw7AlHAvv0axy21
+        name: Love As a Symbol
+        popularity: 9
+        uri: spotify:track:1UZtb66Dw7AlHAvv0axy21
+      - id: 4056COBOQRMwICMmANQ52L
+        name: Minddiver
+        popularity: 8
+        uri: spotify:track:4056COBOQRMwICMmANQ52L
+      - id: 50MJsKApLfVWarqJR0AyW2
+        name: Roses of Death
+        popularity: 8
+        uri: spotify:track:50MJsKApLfVWarqJR0AyW2
+      - id: 0ObJwmxM3x4ftwL9FfErXg
+        name: Erinnerung
+        popularity: 7
+        uri: spotify:track:0ObJwmxM3x4ftwL9FfErXg
+      uri: spotify:artist:5eTXnFPGx2tTzCEYwCNy5v
+      wgt_name: Girls Under Glass
+    spotify:artist:6G8XF6EGWVulzDSr55XM7s:
+      genres: []
+      id: 6G8XF6EGWVulzDSr55XM7s
+      name: Machinista
+      popularity: 20
+      tracks:
+      - id: 1EnsLn53BifU7AFZIuLDdC
+        name: Salvation
+        popularity: 24
+        uri: spotify:track:1EnsLn53BifU7AFZIuLDdC
+      - id: 42AI3mdSMdRd8A7uu4QVlm
+        name: Molecules And Carbon
+        popularity: 18
+        uri: spotify:track:42AI3mdSMdRd8A7uu4QVlm
+      - id: 01Q6cK6C50pSkLHM76PbLk
+        name: Dark Heart of Me - Original Mix
+        popularity: 17
+        uri: spotify:track:01Q6cK6C50pSkLHM76PbLk
+      - id: 06HpFDqGel9UDPQhvKlQXK
+        name: Picture Frame Eternity - Original Mix
+        popularity: 17
+        uri: spotify:track:06HpFDqGel9UDPQhvKlQXK
+      - id: 0AGrtQqY28yec1uf0uaYlR
+        name: We Are Rockets - Original Mix
+        popularity: 16
+        uri: spotify:track:0AGrtQqY28yec1uf0uaYlR
+      - id: 0zb08egj57o69nK0eer047
+        name: Battered - Original Mix
+        popularity: 15
+        uri: spotify:track:0zb08egj57o69nK0eer047
+      - id: 5fjCwzduZnVJxoYmquVimm
+        name: Take Comfort In Being Sad
+        popularity: 14
+        uri: spotify:track:5fjCwzduZnVJxoYmquVimm
+      - id: 3x3UfXYX2Ebk3E1LylObhw
+        name: Ghost - Original Mix
+        popularity: 13
+        uri: spotify:track:3x3UfXYX2Ebk3E1LylObhw
+      - id: 4r0reae6pdYrKadqoNsDJt
+        name: Brandbergen, Stockholm via Kalmar till Malmö - Original Mix
+        popularity: 13
+        uri: spotify:track:4r0reae6pdYrKadqoNsDJt
+      - id: 6FkdQLisxyUmhKdSFwho52
+        name: The Bombs - Original Mix
+        popularity: 12
+        uri: spotify:track:6FkdQLisxyUmhKdSFwho52
+      uri: spotify:artist:6G8XF6EGWVulzDSr55XM7s
+      wgt_name: Machinista
+    spotify:artist:6GKVXdXGEOPzpilArcqBun:
+      genres: []
+      id: 6GKVXdXGEOPzpilArcqBun
+      name: Sigue Sigue Sputnik
+      popularity: 30
+      tracks:
+      - id: 4MUNIBQHE5y6DuR6qJmmoR
+        name: Love Missile F1-11
+        popularity: 40
+        uri: spotify:track:4MUNIBQHE5y6DuR6qJmmoR
+      - id: 6yIhxpgBHu8ti4TXaxZdMp
+        name: Love Missile F1-11 - Ultraviolence Mix
+        popularity: 29
+        uri: spotify:track:6yIhxpgBHu8ti4TXaxZdMp
+      - id: 1sWA6ber0mrxkXg77DPVlS
+        name: Twenty First Century Boy
+        popularity: 26
+        uri: spotify:track:1sWA6ber0mrxkXg77DPVlS
+      - id: 2dvXvYgNKij2WDW9K789i6
+        name: Twenty First Century Boy - Extended Mix
+        popularity: 18
+        uri: spotify:track:2dvXvYgNKij2WDW9K789i6
+      - id: 14HYreMpEqjbhujmJkS3yI
+        name: Success
+        popularity: 17
+        uri: spotify:track:14HYreMpEqjbhujmJkS3yI
+      - id: 7dfjjdc3ZZl87TnGBv89ws
+        name: Memorabilia
+        popularity: 10
+        uri: spotify:track:7dfjjdc3ZZl87TnGBv89ws
+      - id: 185Gk9vCiiXGQuoGPWyQUv
+        name: Hack Attack
+        popularity: 14
+        uri: spotify:track:185Gk9vCiiXGQuoGPWyQUv
+      - id: 3ORMAUvxyfSmaqvER1iSNR
+        name: Buy EMI - £4 Million Mix
+        popularity: 12
+        uri: spotify:track:3ORMAUvxyfSmaqvER1iSNR
+      - id: 4a5WykDZaGbKIjydD15i9s
+        name: Dancerama - 7'' Mix
+        popularity: 11
+        uri: spotify:track:4a5WykDZaGbKIjydD15i9s
+      - id: 3uBYgkRPiULePv6Lyxmj0x
+        name: Hey Jane Mansfield Superstar
+        popularity: 11
+        uri: spotify:track:3uBYgkRPiULePv6Lyxmj0x
+      uri: spotify:artist:6GKVXdXGEOPzpilArcqBun
+      wgt_name: Sigue Sigue Sputnik
+    spotify:artist:6Jg19FkSE124yxi2J2wdP4:
+      genres: []
+      id: 6Jg19FkSE124yxi2J2wdP4
+      name: Coppelius
+      popularity: 30
+      tracks:
+      - id: 57P9OgPTWkYBF1mq2cCVoL
+        name: Der Luftschiffharpunist - Re-Mischung von Lord Of The Lost
+        popularity: 13
+        uri: spotify:track:57P9OgPTWkYBF1mq2cCVoL
+      - id: 2hCzX6DQSLwGqe4sWZP95J
+        name: Risiko
+        popularity: 6
+        uri: spotify:track:2hCzX6DQSLwGqe4sWZP95J
+      - id: 41IIUW1oJoxDEk3HRnUPgp
+        name: Viel zu viel
+        popularity: 2
+        uri: spotify:track:41IIUW1oJoxDEk3HRnUPgp
+      - id: 6PlhPl7WmJs35l1F4Pdc77
+        name: Schöne Augen
+        popularity: 1
+        uri: spotify:track:6PlhPl7WmJs35l1F4Pdc77
+      - id: 13n6z7SQzQ4i64LFHEB4jz
+        name: Ma Rue A Moi (Wer Großes leistet...)
+        popularity: 1
+        uri: spotify:track:13n6z7SQzQ4i64LFHEB4jz
+      - id: 65lC0CAW5TUrObmhq69pLg
+        name: Der Advokat
+        popularity: 1
+        uri: spotify:track:65lC0CAW5TUrObmhq69pLg
+      - id: 4emcZXQ2j4hTAJcNCKpFfI
+        name: Komposition
+        popularity: 0
+        uri: spotify:track:4emcZXQ2j4hTAJcNCKpFfI
+      - id: 4YE4qB2nwi90jr1VCg3Mqm
+        name: Vorwort
+        popularity: 0
+        uri: spotify:track:4YE4qB2nwi90jr1VCg3Mqm
+      - id: 1hAhHj1CTovjkdkMVXIsck
+        name: Rather Be Dead
+        popularity: 0
+        uri: spotify:track:1hAhHj1CTovjkdkMVXIsck
+      - id: 3wACuYMPBzdbJn0x9Spr3C
+        name: Operation
+        popularity: 0
+        uri: spotify:track:3wACuYMPBzdbJn0x9Spr3C
+      uri: spotify:artist:6Jg19FkSE124yxi2J2wdP4
+      wgt_name: Coppelius
+    spotify:artist:6QgTUcsgkYYymHqqvynfbV:
+      genres: []
+      id: 6QgTUcsgkYYymHqqvynfbV
+      name: Blitzmaschine
+      popularity: 15
+      tracks:
+      - id: 3ZfwrzQXm9gPYx6XEBPPft
+        name: Uncontrollable - Single Mix
+        popularity: 19
+        uri: spotify:track:3ZfwrzQXm9gPYx6XEBPPft
+      - id: 0qkjJINueJmjXBRfZXYNnM
+        name: Do Not
+        popularity: 14
+        uri: spotify:track:0qkjJINueJmjXBRfZXYNnM
+      - id: 6cSGHdjXi08rKV04S72R71
+        name: Blondes Mädchen
+        popularity: 14
+        uri: spotify:track:6cSGHdjXi08rKV04S72R71
+      - id: 7Li4rTN8WwamVmJ3VKCsoG
+        name: Burnout - Hardwire Remix
+        popularity: 12
+        uri: spotify:track:7Li4rTN8WwamVmJ3VKCsoG
+      - id: 2ZrdCEGiaB7suB9KO3onWt
+        name: Love and Pain
+        popularity: 10
+        uri: spotify:track:2ZrdCEGiaB7suB9KO3onWt
+      - id: 08R8jixael2ltHHYoaCKfx
+        name: Swallow Me
+        popularity: 10
+        uri: spotify:track:08R8jixael2ltHHYoaCKfx
+      - id: 3uyJ8OPlG34kuU2wSU8Dcv
+        name: Was hasst du?
+        popularity: 10
+        uri: spotify:track:3uyJ8OPlG34kuU2wSU8Dcv
+      - id: 3iSlS2xnvpriSDgmEz7Bom
+        name: Propaganda
+        popularity: 9
+        uri: spotify:track:3iSlS2xnvpriSDgmEz7Bom
+      - id: 5r1cU7QtlurqkHOu0NxlUw
+        name: Blute Jetzt! - Snoob Mix
+        popularity: 8
+        uri: spotify:track:5r1cU7QtlurqkHOu0NxlUw
+      - id: 1hsH9eeE9rXgPt5eQU1QOx
+        name: Soviel mehr
+        popularity: 7
+        uri: spotify:track:1hsH9eeE9rXgPt5eQU1QOx
+      uri: spotify:artist:6QgTUcsgkYYymHqqvynfbV
+      wgt_name: Blitzmaschine
+    spotify:artist:6jLJRdVrrcyikxCiZimcqd:
+      genres: []
+      id: 6jLJRdVrrcyikxCiZimcqd
+      name: Die Wilde Jagd
+      popularity: 12
+      tracks:
+      - id: 59wlCICZsB38Axb8ijSBCP
+        name: Wah Wah Wallenstein
+        popularity: 16
+        uri: spotify:track:59wlCICZsB38Axb8ijSBCP
+      - id: 6nfMyG1wdPqNFfttuehjYL
+        name: Austerlitz
+        popularity: 14
+        uri: spotify:track:6nfMyG1wdPqNFfttuehjYL
+      - id: 4bgSeype8mth10xjcwRVmJ
+        name: Der Meister
+        popularity: 13
+        uri: spotify:track:4bgSeype8mth10xjcwRVmJ
+      - id: 6avF6k2wzb7fX03JOH06QS
+        name: Morgenrot
+        popularity: 12
+        uri: spotify:track:6avF6k2wzb7fX03JOH06QS
+      - id: 4OvHIbQfJ6pkmYBeChn6Pg
+        name: Torpedovogel
+        popularity: 12
+        uri: spotify:track:4OvHIbQfJ6pkmYBeChn6Pg
+      - id: 1eKP4DpxzprHNeb2lM8qJh
+        name: Der elektrische Reiter
+        popularity: 11
+        uri: spotify:track:1eKP4DpxzprHNeb2lM8qJh
+      - id: 0h2beXuYiJ2Ctu7q5teOZ6
+        name: Jagd auf den Hirsch
+        popularity: 11
+        uri: spotify:track:0h2beXuYiJ2Ctu7q5teOZ6
+      - id: 0KLmhSLJJRJ2yf19ajE8sh
+        name: Durch dunkle Tannen
+        popularity: 11
+        uri: spotify:track:0KLmhSLJJRJ2yf19ajE8sh
+      - id: 0XXPNwGslDDoCODOYyBEwI
+        name: Wah Wah Wallenstein - Ivan Smagghe Crossed Version
+        popularity: 9
+        uri: spotify:track:0XXPNwGslDDoCODOYyBEwI
+      - id: 6arvj4bya5K2VP3iz3CPry
+        name: Count On Me - Die Wilde Jagd Remix
+        popularity: 8
+        uri: spotify:track:6arvj4bya5K2VP3iz3CPry
+      uri: spotify:artist:6jLJRdVrrcyikxCiZimcqd
+      wgt_name: Die Wilde Jagd
+    spotify:artist:6woDROgS1cDnpELgvpWYET:
+      genres: []
+      id: 6woDROgS1cDnpELgvpWYET
+      name: Biomekkanik
+      popularity: 18
+      tracks:
+      - id: 3pjjhR4rQ74dGWDjfSk0l6
+        name: State of Perfection
+        popularity: 27
+        uri: spotify:track:3pjjhR4rQ74dGWDjfSk0l6
+      - id: 7zjKwvpKyoVB5DUqpVnOKr
+        name: Monumental Me
+        popularity: 15
+        uri: spotify:track:7zjKwvpKyoVB5DUqpVnOKr
+      - id: 1SK7xRImjNYIPLiIEpWqWR
+        name: Melancholy Friend
+        popularity: 13
+        uri: spotify:track:1SK7xRImjNYIPLiIEpWqWR
+      - id: 0FdJ6h2GVqkubcLnUNlrvC
+        name: Enemy
+        popularity: 13
+        uri: spotify:track:0FdJ6h2GVqkubcLnUNlrvC
+      - id: 70R2QcsAZ13c2oxuvAV2jO
+        name: True Believers
+        popularity: 12
+        uri: spotify:track:70R2QcsAZ13c2oxuvAV2jO
+      - id: 5qkShsUOC21mNrnuL6EZLQ
+        name: Heaven Awaits
+        popularity: 11
+        uri: spotify:track:5qkShsUOC21mNrnuL6EZLQ
+      - id: 4TKAMoNkisAaGwvkSiTd0u
+        name: Kamikaze Playboy
+        popularity: 11
+        uri: spotify:track:4TKAMoNkisAaGwvkSiTd0u
+      - id: 0YC6eEostnpTu5SA1V5x1W
+        name: Violently Beautiful
+        popularity: 11
+        uri: spotify:track:0YC6eEostnpTu5SA1V5x1W
+      - id: 7mieEXL74d0XeJqQMPti4v
+        name: Fuck The Pain Away
+        popularity: 11
+        uri: spotify:track:7mieEXL74d0XeJqQMPti4v
+      - id: 796oLklxiPoybet6K35RoZ
+        name: White World
+        popularity: 10
+        uri: spotify:track:796oLklxiPoybet6K35RoZ
+      uri: spotify:artist:6woDROgS1cDnpELgvpWYET
+      wgt_name: Biomekkanik
+    spotify:artist:7LhCMNjTNM9R2a0fajH9l8:
+      genres: []
+      id: 7LhCMNjTNM9R2a0fajH9l8
+      name: Das Ich
+      popularity: 27
+      tracks:
+      - id: 72VK0BfYZFxoMkPWA5a5Iz
+        name: Destillat - VNV Nation Remix
+        popularity: 34
+        uri: spotify:track:72VK0BfYZFxoMkPWA5a5Iz
+      - id: 10A2wEuN0Frap9tAKapDqS
+        name: Destillat
+        popularity: 24
+        uri: spotify:track:10A2wEuN0Frap9tAKapDqS
+      - id: 1nOCQ4U3GqLSDsXJoBdFLU
+        name: Gottes Tod
+        popularity: 21
+        uri: spotify:track:1nOCQ4U3GqLSDsXJoBdFLU
+      - id: 38i7wpmk4x6wl2AQe8dUUQ
+        name: Fieber
+        popularity: 17
+        uri: spotify:track:38i7wpmk4x6wl2AQe8dUUQ
+      - id: 4cIZO57g5NWM4zASn3CBCH
+        name: Macht
+        popularity: 16
+        uri: spotify:track:4cIZO57g5NWM4zASn3CBCH
+      - id: 5kamvtkA0hKpfXiYJBUwU3
+        name: Schwarzes Gift
+        popularity: 15
+        uri: spotify:track:5kamvtkA0hKpfXiYJBUwU3
+      - id: 0V88d2I3ZdEgaudRw9W5U6
+        name: Kannibale
+        popularity: 14
+        uri: spotify:track:0V88d2I3ZdEgaudRw9W5U6
+      - id: 1M16GisfzHhto5wAqdey4C
+        name: Opferzeit
+        popularity: 14
+        uri: spotify:track:1M16GisfzHhto5wAqdey4C
+      - id: 19wJ2IPQyTG3zX81Vd94Jf
+        name: Kain und Abel
+        popularity: 13
+        uri: spotify:track:19wJ2IPQyTG3zX81Vd94Jf
+      - id: 7vxXYXV1bkn96AOU4EkMFW
+        name: Gott ist tot - Nietzsche Edit
+        popularity: 13
+        uri: spotify:track:7vxXYXV1bkn96AOU4EkMFW
+      uri: spotify:artist:7LhCMNjTNM9R2a0fajH9l8
+      wgt_name: Das Ich
+    spotify:artist:7MxxE2YEsVqLZhy4OpGkkz:
+      genres: []
+      id: 7MxxE2YEsVqLZhy4OpGkkz
+      name: Darkher
+      popularity: 6
+      tracks:
+      - id: 6k67f4YpFXtT4PrISL1x1Y
+        name: Ghost Tears
+        popularity: 12
+        uri: spotify:track:6k67f4YpFXtT4PrISL1x1Y
+      - id: 07xRtrTun6DUTUzTQUiSkS
+        name: Hung
+        popularity: 10
+        uri: spotify:track:07xRtrTun6DUTUzTQUiSkS
+      - id: 4oULY14kMqllou5kxU87Em
+        name: Foregone
+        popularity: 10
+        uri: spotify:track:4oULY14kMqllou5kxU87Em
+      - id: 1dOpKDH4pxif2NYfmru99i
+        name: The Kingdom Field
+        popularity: 9
+        uri: spotify:track:1dOpKDH4pxif2NYfmru99i
+      uri: spotify:artist:7MxxE2YEsVqLZhy4OpGkkz
+      wgt_name: Darkher
+    spotify:artist:7h1hgj6RuXemJWYK0wjl0i:
+      genres: []
+      id: 7h1hgj6RuXemJWYK0wjl0i
+      name: Siechtum
+      popularity: 2
+      tracks:
+      - id: 2EGZdDsfVYdflhfu2tthAJ
+        name: Gesellschaft:Mord
+        popularity: 4
+        uri: spotify:track:2EGZdDsfVYdflhfu2tthAJ
+      - id: 3ZA9CXTHoTFwM7VrvoGllV
+        name: Meinungsindustrie
+        popularity: 2
+        uri: spotify:track:3ZA9CXTHoTFwM7VrvoGllV
+      - id: 5V88UetznwuPYyIybeRU02
+        name: Rapid Eye Movement
+        popularity: 2
+        uri: spotify:track:5V88UetznwuPYyIybeRU02
+      - id: 2NOLQ6egkn2cfURhlqecD1
+        name: Stilbruch
+        popularity: 2
+        uri: spotify:track:2NOLQ6egkn2cfURhlqecD1
+      - id: 3jDGd3WvRTJTnWc3qL0Ifw
+        name: New Breed
+        popularity: 1
+        uri: spotify:track:3jDGd3WvRTJTnWc3qL0Ifw
+      - id: 4ORnk5prwIcmPwxF3XI3tp
+        name: Judas Ischariot
+        popularity: 1
+        uri: spotify:track:4ORnk5prwIcmPwxF3XI3tp
+      - id: 3EPO5PSotAOB5FWe74Zv7T
+        name: Agonie
+        popularity: 1
+        uri: spotify:track:3EPO5PSotAOB5FWe74Zv7T
+      - id: 7DTyj7Iu1ocWldRxGu3KvS
+        name: Dressed in Rape
+        popularity: 1
+        uri: spotify:track:7DTyj7Iu1ocWldRxGu3KvS
+      - id: 6QYELlYWm8yjLWPVwkWP0f
+        name: Wiederstand
+        popularity: 1
+        uri: spotify:track:6QYELlYWm8yjLWPVwkWP0f
+      - id: 0N7faOwRhVyqruToquLro3
+        name: Dunkler Tag
+        popularity: 0
+        uri: spotify:track:0N7faOwRhVyqruToquLro3
+      uri: spotify:artist:7h1hgj6RuXemJWYK0wjl0i
+      wgt_name: Siechtum
+    spotify:artist:7orbTOGaJlQeeabID10JF9:
+      genres: []
+      id: 7orbTOGaJlQeeabID10JF9
+      name: Gernotshagen
+      popularity: 11
+      tracks:
+      - id: 13T0YHJQcA9xIfFMnYBWlF
+        name: Weltenbrand
+        popularity: 16
+        uri: spotify:track:13T0YHJQcA9xIfFMnYBWlF
+      - id: 0CkUVlPI6mtgPkabUYD5lB
+        name: Blinde Wut
+        popularity: 13
+        uri: spotify:track:0CkUVlPI6mtgPkabUYD5lB
+      - id: 01NncxAqhBrSrwZAHGfEjz
+        name: Einsam
+        popularity: 12
+        uri: spotify:track:01NncxAqhBrSrwZAHGfEjz
+      - id: 6K9BDaXCoAONBlzG1XZbhu
+        name: Offenbarung
+        popularity: 11
+        uri: spotify:track:6K9BDaXCoAONBlzG1XZbhu
+      - id: 0sHVxGe8XSxVLyX17txaSn
+        name: Freyas Schoss
+        popularity: 11
+        uri: spotify:track:0sHVxGe8XSxVLyX17txaSn
+      - id: 6COt2FnzkU8RDMulnb5fQz
+        name: Schlachtenbruder
+        popularity: 10
+        uri: spotify:track:6COt2FnzkU8RDMulnb5fQz
+      - id: 3eQ5XRPxxVFAwS6pgJicA3
+        name: Thursenhain
+        popularity: 10
+        uri: spotify:track:3eQ5XRPxxVFAwS6pgJicA3
+      - id: 3Yozpab04qZd9G3F2OKQTn
+        name: Sturmbringer
+        popularity: 10
+        uri: spotify:track:3Yozpab04qZd9G3F2OKQTn
+      - id: 17Lba4wn7Dya1tyWVfMCUD
+        name: Die Banner hoch der Nacht entgegen
+        popularity: 8
+        uri: spotify:track:17Lba4wn7Dya1tyWVfMCUD
+      uri: spotify:artist:7orbTOGaJlQeeabID10JF9
+      wgt_name: Gernotshagen
+    spotify:artist:7puY8Dgwz0k1KcukFEu2X4:
+      genres:
+      - martial industrial
+      id: 7puY8Dgwz0k1KcukFEu2X4
+      name: Deutsch Nepal
+      popularity: 9
+      tracks:
+      - id: 3AqI3cnXefi7pLEhWHouic
+        name: Heartbomb
+        popularity: 12
+        uri: spotify:track:3AqI3cnXefi7pLEhWHouic
+      - id: 2VjPYWQS9uxYTEMPhjeZzq
+        name: Angel Impact
+        popularity: 7
+        uri: spotify:track:2VjPYWQS9uxYTEMPhjeZzq
+      - id: 7yaKEpLOreLfzCgaeHJfgS
+        name: U.R. Blackhouse
+        popularity: 7
+        uri: spotify:track:7yaKEpLOreLfzCgaeHJfgS
+      - id: 1BjWKgUBeqMGhum1geLWy2
+        name: The Fire Within My Cold Heart
+        popularity: 6
+        uri: spotify:track:1BjWKgUBeqMGhum1geLWy2
+      - id: 1oZq5LZhplA3yKRDgNkmBz
+        name: Impassive Metal Sex
+        popularity: 6
+        uri: spotify:track:1oZq5LZhplA3yKRDgNkmBz
+      - id: 3sKSq0sKxI286jWKhpii1R
+        name: Permobile Erotomatik
+        popularity: 5
+        uri: spotify:track:3sKSq0sKxI286jWKhpii1R
+      - id: 1wxRjdnT80RzFskgG0F7eX
+        name: Benevolence (Of The Fittest God)
+        popularity: 5
+        uri: spotify:track:1wxRjdnT80RzFskgG0F7eX
+      - id: 5SP0cAAqtUFpOQ60F5fb4X
+        name: Blowjob Parasite
+        popularity: 5
+        uri: spotify:track:5SP0cAAqtUFpOQ60F5fb4X
+      - id: 1M875qi9PQWK56k3EeC8Hn
+        name: I Jast Fokos An Maiself
+        popularity: 5
+        uri: spotify:track:1M875qi9PQWK56k3EeC8Hn
+      - id: 4GKCuLacRezFPE4BxCNrC1
+        name: At The Court Of Saba
+        popularity: 5
+        uri: spotify:track:4GKCuLacRezFPE4BxCNrC1
+      uri: spotify:artist:7puY8Dgwz0k1KcukFEu2X4
+      wgt_name: Deutsch Nepal
+    spotify:artist:7yZBEIIMTSW6yPYHYb9A5p:
+      genres: []
+      id: 7yZBEIIMTSW6yPYHYb9A5p
+      name: Chainreactor
+      popularity: 15
+      tracks:
+      - id: 3y5vylNhqmn9xokovI9sNE
+        name: Choose Your Weapon
+        popularity: 11
+        uri: spotify:track:3y5vylNhqmn9xokovI9sNE
+      - id: 5K0rx5BdqNaVQ692o8cO5f
+        name: Shitstormer
+        popularity: 10
+        uri: spotify:track:5K0rx5BdqNaVQ692o8cO5f
+      - id: 5bg5RU3OrcEGolSDAY3NPA
+        name: Achieving Society
+        popularity: 10
+        uri: spotify:track:5bg5RU3OrcEGolSDAY3NPA
+      - id: 15yZWFxqyLKlIQtrvDZiFa
+        name: Wanna Break Out
+        popularity: 9
+        uri: spotify:track:15yZWFxqyLKlIQtrvDZiFa
+      - id: 0CjQJ0YBQXmSQUgTL4gtYb
+        name: This Broken Shield (Chainreactor Remix)
+        popularity: 9
+        uri: spotify:track:0CjQJ0YBQXmSQUgTL4gtYb
+      - id: 77zTIZVypE0Z1NsuPnttsO
+        name: Over the Line
+        popularity: 9
+        uri: spotify:track:77zTIZVypE0Z1NsuPnttsO
+      - id: 3ymYvCHN62NeabydRruAoD
+        name: Torpedo
+        popularity: 8
+        uri: spotify:track:3ymYvCHN62NeabydRruAoD
+      - id: 0jzfBKSAXasvTNb5iesPGN
+        name: Dirt
+        popularity: 8
+        uri: spotify:track:0jzfBKSAXasvTNb5iesPGN
+      - id: 0wOM9YYfngUy4Fbp1zfy9d
+        name: Godsend
+        popularity: 8
+        uri: spotify:track:0wOM9YYfngUy4Fbp1zfy9d
+      - id: 17xx59ovsqNz2usdfgG2aq
+        name: D.U.E.S.S.E.L.D.O.R.F
+        popularity: 8
+        uri: spotify:track:17xx59ovsqNz2usdfgG2aq
+      uri: spotify:artist:7yZBEIIMTSW6yPYHYb9A5p
+      wgt_name: Chainreactor
+    spotify:artist:35GGGxiZ0AtRMf11IQ7A4t:
+      genres: []
+      id: 35GGGxiZ0AtRMf11IQ7A4t
+      name: Tragic Black
+      popularity: 8
+      tracks:
+      - id: 3vawllIrk1nVb9m1ZPJlv8
+        name: Surreal Catharsis
+        popularity: 11
+        uri: spotify:track:3vawllIrk1nVb9m1ZPJlv8
+      - id: 67Ueo6QWpheYC5POrz3GRb
+        name: Faith in Decay
+        popularity: 7
+        uri: spotify:track:67Ueo6QWpheYC5POrz3GRb
+      - id: 40XvJ2kAa0JFjNbELGLPPQ
+        name: Bodies On the Avenue
+        popularity: 6
+        uri: spotify:track:40XvJ2kAa0JFjNbELGLPPQ
+      - id: 6v7D6PT79sCDeUT8kBvchE
+        name: Blood N' Bones
+        popularity: 5
+        uri: spotify:track:6v7D6PT79sCDeUT8kBvchE
+      - id: 548stWa3YL2uLw99aENbhw
+        name: June's Dying
+        popularity: 5
+        uri: spotify:track:548stWa3YL2uLw99aENbhw
+      - id: 2L69eCiJq9r4Hoq6r6ANgc
+        name: The Cold Caress
+        popularity: 4
+        uri: spotify:track:2L69eCiJq9r4Hoq6r6ANgc
+      - id: 6Iane8yUUkqyLjQlUssrts
+        name: Reptile
+        popularity: 3
+        uri: spotify:track:6Iane8yUUkqyLjQlUssrts
+      - id: 2ntoKnJkJXH6hX5kA3osXk
+        name: The Garden of Disease
+        popularity: 2
+        uri: spotify:track:2ntoKnJkJXH6hX5kA3osXk
+      - id: 0HB2yUFqT7EjIDPYtzCU0S
+        name: What in the World
+        popularity: 2
+        uri: spotify:track:0HB2yUFqT7EjIDPYtzCU0S
+      - id: 4wq9b2MWi1XBHrdDhP2f80
+        name: The Black Chrysalis - Spiritual Metamorphasis
+        popularity: 2
+        uri: spotify:track:4wq9b2MWi1XBHrdDhP2f80
+      uri: spotify:artist:35GGGxiZ0AtRMf11IQ7A4t
+      wgt_name: Tragic Black
+    spotify:artist:69AckV37WNSvNBPla3fHX5:
+      genres: []
+      id: 69AckV37WNSvNBPla3fHX5
+      name: Bifrost
+      popularity: 27
+      tracks:
+      - id: 7a2ihpq0InLY3LjLEapDFl
+        name: Hej Maria (Luk Vinduet Op)
+        popularity: 29
+        uri: spotify:track:7a2ihpq0InLY3LjLEapDFl
+      - id: 3za6TJFUbrnScMEAVhZYBF
+        name: Det Er Morgen
+        popularity: 25
+        uri: spotify:track:3za6TJFUbrnScMEAVhZYBF
+      - id: 2BowAy3EtgJSE2pnBS8shw
+        name: Faldet
+        popularity: 20
+        uri: spotify:track:2BowAy3EtgJSE2pnBS8shw
+      - id: 6cSSgyOi0jnVtzn1KldBK7
+        name: Narredans
+        popularity: 18
+        uri: spotify:track:6cSSgyOi0jnVtzn1KldBK7
+      - id: 0Tb6iU2Iz5DPHaNXeT92cg
+        name: Mens Lyset Brænder Ud
+        popularity: 14
+        uri: spotify:track:0Tb6iU2Iz5DPHaNXeT92cg
+      - id: 0uyBWr0oBkXZU7518ni939
+        name: Hjerte Til Salg
+        popularity: 13
+        uri: spotify:track:0uyBWr0oBkXZU7518ni939
+      - id: 7f8V57PioUWOKvjs1O661Y
+        name: Rippet Og Flået
+        popularity: 11
+        uri: spotify:track:7f8V57PioUWOKvjs1O661Y
+      - id: 2rx4gZgt6kudI8XLdXYItg
+        name: Dog Eat Dog
+        popularity: 10
+        uri: spotify:track:2rx4gZgt6kudI8XLdXYItg
+      - id: 6k571Hljzi0juvvNKODu37
+        name: Mandag
+        popularity: 9
+        uri: spotify:track:6k571Hljzi0juvvNKODu37
+      - id: 7jzTKvA1taSI0xQ8CAmL5z
+        name: I nat vil jeg jeg leve
+        popularity: 8
+        uri: spotify:track:7jzTKvA1taSI0xQ8CAmL5z
+      uri: spotify:artist:69AckV37WNSvNBPla3fHX5
+      wgt_name: Bifröst
+    spotify:artist:295dvgS4Oy6dyjLiPBButt:
+      genres: []
+      id: 295dvgS4Oy6dyjLiPBButt
+      name: Amnistia
+      popularity: 10
+      tracks:
+      - id: 3u1AiOYFYSxEhbBF7gKAQx
+        name: Vanish into Air
+        popularity: 15
+        uri: spotify:track:3u1AiOYFYSxEhbBF7gKAQx
+      - id: 3q0TxeAYXb7ao3dpkeAk7D
+        name: Blackguard
+        popularity: 12
+        uri: spotify:track:3q0TxeAYXb7ao3dpkeAk7D
+      - id: 2mztQ5zF71io3EncMPN30m
+        name: Elements (Rotersand Rework)
+        popularity: 8
+        uri: spotify:track:2mztQ5zF71io3EncMPN30m
+      - id: 2qV6VRkCKRlAOWuTjoXSnP
+        name: Egotrap
+        popularity: 7
+        uri: spotify:track:2qV6VRkCKRlAOWuTjoXSnP
+      - id: 5XcbQMCBy9dqP1U3mD4SZF
+        name: Faceless
+        popularity: 7
+        uri: spotify:track:5XcbQMCBy9dqP1U3mD4SZF
+      - id: 6k5Z8MfPWW6sLt265eNfTC
+        name: More
+        popularity: 4
+        uri: spotify:track:6k5Z8MfPWW6sLt265eNfTC
+      - id: 7snOlKFyj7HjTUPlZu141M
+        name: Crash Course with Life
+        popularity: 4
+        uri: spotify:track:7snOlKFyj7HjTUPlZu141M
+      - id: 6l4Kpj21qOKmRyEnHn5Ilz
+        name: Catch Me
+        popularity: 4
+        uri: spotify:track:6l4Kpj21qOKmRyEnHn5Ilz
+      - id: 14pX3Jz5Oh3CdFmUZ0VqcS
+        name: More (Nordarr Remix)
+        popularity: 3
+        uri: spotify:track:14pX3Jz5Oh3CdFmUZ0VqcS
+      - id: 6m4oiiaWmPR07O4Mj7f24X
+        name: Contrast
+        popularity: 3
+        uri: spotify:track:6m4oiiaWmPR07O4Mj7f24X
+      uri: spotify:artist:295dvgS4Oy6dyjLiPBButt
+      wgt_name: Amnistia
+filename: ./data.yaml
+raw_artists:
+  data:
+  - wgt_name: Amnistia
+  - wgt_name: Artwork
+  - wgt_name: Bifröst
+  - wgt_name: Biomekkanik
+  - wgt_name: Blitzmaschine
+  - wgt_name: Chainreactor
+  - wgt_name: Christ Vs. Warhol
+  - wgt_name: Christine Plays Viola
+  - wgt_name: Cinema Strange
+  - wgt_name: Coppelius
+  - wgt_name: Crematory
+  - wgt_name: Culture Kultür
+  - wgt_name: Darkher
+  - wgt_name: Das Ich
+  - wgt_name: Destin Fragile
+  - wgt_name: Deutsch Nepal
+  - wgt_name: Diary Of Dreams
+  - wgt_name: Die Krupps
+  - wgt_name: Die Wilde Jagd
+  - wgt_name: Gernotshagen
+  - wgt_name: Girls Under Glass
+  - wgt_name: Gothminister
+  - wgt_name: Grausame Töchter
+  - wgt_name: Hante.
+  - wgt_name: Har Belex
+  - wgt_name: In The Nursery
+  - wgt_name: Kauan
+  - wgt_name: Kuroshio
+  - wgt_name: Kyoll
+  - wgt_name: Lament
+  - wgt_name: Leather Strip
+  - wgt_name: Legend
+  - wgt_name: Machinista
+  - wgt_name: Mesh
+  - wgt_name: Näo
+  - wgt_name: Nekromantix
+  - wgt_name: Neuroticfish
+  - wgt_name: Nullvektor
+  - wgt_name: Peter Yates
+  - wgt_name: Reaper
+  - wgt_name: Siechtum
+  - wgt_name: Sigue Sigue Sputnik
+  - wgt_name: Suicide Commando
+  - wgt_name: Supersimmetria
+  - wgt_name: Tanz Ohne Musik
+  - wgt_name: The Deadfly Ensemble
+  - wgt_name: The Underground Youth
+  - wgt_name: Tragic Black
+  - wgt_name: Triarii
+  - wgt_name: Unzucht
+  - wgt_name: Winter Severity Index
+  - wgt_name: Winterkälte
+  - wgt_name: XTR Human
