@@ -53,6 +53,11 @@ func main() {
 	// Go doesn't exactly make sorting easy ...
 	sort.Sort(artistSlice(artists))
 
+	var playlists []*wgt2.Playlist
+	for _, playlist := range db.Playlists.Data {
+		playlists = append(playlists, playlist)
+	}
+
 	file, err := os.Create(TargetDir + "index")
 	if err != nil {
 		log.Fatal(err.Error())
@@ -63,7 +68,8 @@ func main() {
 	defer writer.Flush()
 
 	data := map[string]interface{}{
-		"artists": artists,
+		"artists":   artists,
+		"playlists": playlists,
 	}
 	if err := template.Execute(writer, data); err != nil {
 		log.Fatal(err.Error())
