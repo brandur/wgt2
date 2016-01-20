@@ -224,9 +224,10 @@ func updatePlaylist(client *spotify.Client, user *spotify.PrivateUser, playlistN
 	}
 
 	dbPlaylist := &wgt2.Playlist{
-		ID:   string(playlist.ID),
-		Name: playlist.Name,
-		URI:  string(playlist.URI),
+		ID:         string(playlist.ID),
+		Name:       playlist.Name,
+		SpotifyURL: playlist.ExternalURLs["spotify"],
+		URI:        string(playlist.URI),
 	}
 
 	return dbPlaylist, nil
