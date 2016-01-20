@@ -21,8 +21,8 @@ import (
 var (
 	DBFilename          = "./data.yaml"
 	PlaylistName        = "WGT 2016"
-	PlaylistNameObscure = "WGT 2016 - Obscure"
-	PlaylistNamePopular = "WGT 2016 - Popular"
+	PlaylistNameObscure = "WGT 2016 - Obscure Artists"
+	PlaylistNamePopular = "WGT 2016 - Popular Artists"
 	TracksPerArtist     = 5
 )
 
